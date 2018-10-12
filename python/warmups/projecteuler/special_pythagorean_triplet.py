@@ -34,11 +34,14 @@ def brute_force(goal=1000):
     a_numbers = range(goal//3, 2, -1)
     b_numbers = range(goal//2, 2, -1)
 
-    for a in a_numbers:
-        for b in b_numbers:
-            c = goal - (a + b)
-            if a*a + b*b == c*c:
-                return (a, b, c)
+    pythagorean_triplet = [(a, b, c,)
+                           for a in a_numbers
+                           for b in b_numbers
+                           for c in [(goal - (a + b)), ]
+                           if a*a + b*b == c*c
+                           ]
+
+    return pythagorean_triplet[0] if pythagorean_triplet else None
 
 
 def main():
