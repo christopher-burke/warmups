@@ -3,7 +3,8 @@
 """Largest product in a grid
 
 
-In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
+In the 20×20 grid below, four numbers along a diagonal line have
+been marked in red.
 
 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
@@ -31,14 +32,17 @@ The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 What is the greatest product of four adjacent numbers in the same
 direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
-source: https://projecteuler.net/problem=11
+source: https://projecteuler.net/problem=11 
 """
+
+from operator import mul
+from functools import reduce
 
 
 def main():
     """Find the largest product from the grid in docstring."""
     grid = get_grid_from_doc()
-    find_largest_product(grid)
+    return find_largest_product(grid)
 
 
 def get_grid_from_doc() -> list:
@@ -54,13 +58,66 @@ def get_grid_from_doc() -> list:
     return (([list(map(int, row)) for row in grid]))
 
 
+def calculate(grid: list, row_index: int, col_index: int) -> list:
+    """Calculate the max product from a given point.
+
+    :return: List of [product, [4 product factors]]
+    """
+    # Direction left to right
+    try:
+        across = grid[row_index][slice(col_index, col_index+4)]
+    except IndexError:
+        across = [1]
+
+    try:
+        down = [grid[row_index][col_index],
+                grid[row_index+1][col_index],
+                grid[row_index+2][col_index],
+                grid[row_index+3][col_index], ]
+    except IndexError:
+        down = [1]
+
+    try:
+        d1 = [grid[row_index][col_index],
+              grid[row_index+1][col_index+1],
+              grid[row_index+2][col_index+2],
+              grid[row_index+3][col_index+3], ]
+
+    except IndexError:
+        d1 = [1]
+    try:
+        d2 = [grid[row_index][col_index],
+              grid[row_index+1][col_index-1],
+              grid[row_index+2][col_index-2],
+              grid[row_index+3][col_index-3], ]
+    except IndexError:
+        d2 = [1]
+
+    candidates = [across, down, d1, d2, ]
+
+    products = [[reduce(mul, x), x, ]
+                for x in filter(lambda x: len(x) == 4, candidates)]
+    try:
+        return (max(products))
+    except ValueError:
+        return [0, [0]]
+
+
 def find_largest_product(grid: list) -> tuple:
     """Find the largest product in the grid.
 
     :return: Tuple of the factors.
     """
-    raise NotImplementedError
+    max_product = [1, [0]]
+
+    for row_index, row in enumerate(grid):
+        for col_index in range(len(row)):
+            cal = calculate(grid, row_index, col_index)
+            if max_product[0] < cal[0]:
+                max_product = cal
+    return max_product
 
 
 if __name__ == "__main__":
-    main()
+    results = main()
+    print(f'{results[0]} with factors ({results[1]}).')
