@@ -36,6 +36,29 @@ source: https://projecteuler.net/problem=11
 
 
 def main():
+    """Find the largest product from the grid in docstring."""
+    grid = get_grid_from_doc()
+    find_largest_product(grid)
+
+
+def get_grid_from_doc() -> list:
+    """Get the grid from the docstring.
+
+    Length of the line for each row is 59. Finds all rows with
+    length of 59. Converts the string type to int.
+
+    :return: Grid from docstring.
+    """
+    raw_grid = [x for x in __doc__.split('\n') if len(x) == 59]
+    grid = [x.split() for x in raw_grid]
+    return (([list(map(int, row)) for row in grid]))
+
+
+def find_largest_product(grid: list) -> tuple:
+    """Find the largest product in the grid.
+
+    :return: Tuple of the factors.
+    """
     raise NotImplementedError
 
 
