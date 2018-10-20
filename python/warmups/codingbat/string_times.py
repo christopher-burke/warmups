@@ -26,13 +26,7 @@ def string_times(str_, n):
     return str_ * n
 
 
-def main():
-    pass
-
-
 if __name__ == "__main__":
-    main()
-
     assert string_times('Hi', 2) == 'HiHi'
     assert string_times('Hi', 3) == 'HiHiHi'
     assert string_times('Hi', 1) == 'Hi'
