@@ -13,6 +13,8 @@ source: https://codingbat.com/prob/p118366
 """
 
 from itertools import accumulate
+from functools import reduce
+from operator import add
 
 
 def string_splosion(str_: str) -> str:
@@ -23,7 +25,7 @@ def string_splosion(str_: str) -> str:
 
     :return: String with accumulated letters.
     """
-    return ''.join(accumulate(str_))
+    return reduce(add, accumulate(str_))
 
 
 def main():
