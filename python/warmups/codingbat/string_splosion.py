@@ -1,37 +1,33 @@
 #!/usr/bin/env python3
 
+"""String Splosion.
 
-"""Given a non-empty string like "Code" 
+Given a non-empty string like "Code"
 return a string like "CCoCodCode".
 
-
-string_splosion('Code') → 'CCoCodCode'
-string_splosion('abc') → 'aababc'
-string_splosion('ab') → 'aab'
+    string_splosion('Code') → 'CCoCodCode'
+    string_splosion('abc') → 'aababc'
+    string_splosion('ab') → 'aab'
 
 source: https://codingbat.com/prob/p118366
 """
 
+from itertools import accumulate
+
 
 def string_splosion(str_: str) -> str:
-    """Return a string with each subsequence spelled out.
+    """
+    Return a string accumulating the letters from the beginning.
 
-    examples: 
-            Code -> 'CCoCodCode'
-            Math -> 'MMaMatMath'
-            Program -> 'PPrProProgProgrPrograProgram'
+    Example, 'Code' becomes 'CCoCodCode'.
 
-    :return: string splosion of original string."""
-    l = len(str_)
-    return_string = ""
-    for i in range(l, 0, -1):
-        return_string = str_[:i] + return_string
-
-    return return_string
+    :return: String with accumulated letters.
+    """
+    return ''.join(accumulate(str_))
 
 
 def main():
-    print(string_splosion('Program'))
+    """Run tests for string_splosion."""
     assert string_splosion('Code') == 'CCoCodCode'
     assert string_splosion('abc') == 'aababc'
     assert string_splosion('ab') == 'aab'
