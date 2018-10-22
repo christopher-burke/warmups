@@ -30,6 +30,7 @@ array_front9 = partial(array_front, target=9, length=4)
 
 
 def main():
+    """Test the array_front9 function."""
     assert array_front9([1, 2, 9, 3, 4]) is True
     assert array_front9([1, 2, 3, 4, 9]) is False
     assert array_front9([1, 2, 3, 4, 5]) is False
