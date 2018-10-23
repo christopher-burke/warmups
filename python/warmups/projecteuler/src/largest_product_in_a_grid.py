@@ -32,7 +32,7 @@ The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 What is the greatest product of four adjacent numbers in the same
 direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
-source: https://projecteuler.net/problem=11 
+source: https://projecteuler.net/problem=11
 """
 
 from operator import mul
@@ -68,6 +68,39 @@ def calculate(grid: list, row_index: int, col_index: int) -> list:
         across = grid[row_index][slice(col_index, col_index+4)]
     except IndexError:
         across = [1]
+
+    indices = (
+        # Down
+        ((row_index, col_index),
+         (row_index+1, col_index),
+         (row_index+2, col_index),
+         (row_index+3, col_index),
+         ),
+        # Diagonal one
+        ((row_index, col_index),
+         (row_index+1, col_index+1),
+         (row_index+2, col_index+2),
+         (row_index+3, col_index+3),
+         ),
+        # Diagonal two
+        ((row_index, col_index),
+         (row_index+1, col_index-1),
+         (row_index+2, col_index-2),
+         (row_index+3, col_index-3),
+         ),
+    )
+
+    try:
+
+        for index in indices:
+            factors = []
+            for x in index:
+                factors.append(grid[x[0]][x[1]])
+    except IndexError:
+        pass
+
+    if len(factors) == 4:
+        print(factors)
 
     try:
         down = [grid[row_index][col_index],
