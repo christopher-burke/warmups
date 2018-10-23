@@ -11,7 +11,17 @@ source: https://projecteuler.net/problem=3
 
 from math import sqrt
 from functools import reduce
-from common import prime
+
+try:
+    from common import prime
+except ModuleNotFoundError:
+    import sys
+    import os
+
+    file_path = os.path.abspath(__file__)
+    warmups_dir = os.path.dirname(os.path.dirname(os.path.dirname(file_path)))
+    sys.path.insert(0, warmups_dir)
+    from common import prime
 
 
 def prime_factorization(number: int):
