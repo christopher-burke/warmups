@@ -7,7 +7,7 @@
 
 * These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-* There's now 14 python files in this repo.
+* There's now 15 python files in this repo.
 
 | Problem Number  | Script  | DocString |
 | ------------- | ------------- | ------------- |
@@ -25,3 +25,4 @@
 |12|<a href="./src/highly_divisible_triangular_number.py">src/highly\_divisible\_triangular\_number.py</a>|Highly divisible triangular number.|
 |13|<a href="./src/large_sum.py">src/large\_sum.py</a>|Large Sum|
 |14|<a href="./src/longest_collatz_sequence.py">src/longest\_collatz\_sequence.py</a>|Longest Collatz sequence.|
+|15|<a href="./src/lattice_paths.py">src/lattice\_paths.py</a>|Lattice paths.|
