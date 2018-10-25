@@ -12,12 +12,20 @@ source: https://projecteuler.net/problem=15
 """
 
 
+import math
+
+
 def _lattice_path(down, right):
-    """Lattice path helper function."""
-    if down == 0 or right == 0:
-        return 1
-    else:
-        return _lattice_path(down - 1, right) + _lattice_path(down, right - 1)
+    """Shortest paths using binomial coefficients.
+
+    Binomial[2n, n] or  (2n)!/(n!)^2
+
+    More info can be found here:
+      * https://www.robertdickau.com/manhattan.html
+
+    :return:  Number of paths.
+    """
+    return math.factorial(down + right) // (math.factorial(down) ** 2)
 
 
 def lattice_paths(grid_size):
@@ -34,4 +42,4 @@ def main(grid_size):
 
 
 if __name__ == "__main__":
-    print(main(grid_size=4))
+    print(main(grid_size=20))
