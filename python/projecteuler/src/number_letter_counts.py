@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
-"""Number letter counts
 
+"""Number letter counts.
 
-If the numbers 1 to 5 are written out in words: 
+If the numbers 1 to 5 are written out in words:
 
-    one, two, three, four, five, 
+    one, two, three, four, five,
 
 then there are
 
@@ -14,7 +14,7 @@ then there are
 If all the numbers from 1 to 1000 (one thousand) inclusive
 were written out in words, how many letters would be used?
 
-NOTE: Do not count spaces or hyphens. For example, 
+NOTE: Do not count spaces or hyphens. For example,
 342 (three hundred and forty-two) contains 23 letters and
 115 (one hundred and fifteen) contains 20 letters.
 The use of "and" when writing out numbers is in compliance with British usage.
@@ -24,7 +24,6 @@ source: https://projecteuler.net/problem=17
 """
 
 from itertools import chain
-from functools import partial
 from math import log10
 
 NUM_TO_WORDS = {
@@ -79,17 +78,15 @@ def partition_n(n: str) -> tuple:
     return (n[:-2], n[-2:],)
 
 
-def logic(n, british=True, one=False):
-    """Logic to convert [n]umber to string."""
-    # TODO: It works, but it needs refactoring.
+def logic(n, british=True, log10_=False):
+    """Logic to convert [n]umber to string.
+
+    :return: List of all numbers to words.
+    """
     try:
         if n > 0:
-            exp, _, dec = str(log10(n)).rpartition('.')
-
-            if (int(dec) == 0) and (int(exp) > 1) and one:
-                print(f'{n}', int(dec) == 0 and int(exp) > 1 and one,
-                      int(dec) == 0 and int(exp) > 1, '<=====',
-                      (int(dec) == 0), (int(exp) > 1), (one))
+            i, _, d = str(log10(n)).partition('.')
+            if log10_ and int(i) > 1 and int(d) == 0:
                 return ['one', NUM_TO_WORDS[n]]
         return [NUM_TO_WORDS[n]]
     except KeyError:
@@ -99,13 +96,13 @@ def logic(n, british=True, one=False):
     hundreds_and_more, tens_ones = partition_n(str(n))
 
     if int(tens_ones) < 20:
-        output.extend(logic(int(tens_ones), one))
+        output.extend(logic(int(tens_ones), log10_=False))
     else:
         lower_units = [10**i * int(d)
                        for i, d in enumerate(reversed(tens_ones))]
 
         for num in lower_units:
-            output.extend(logic(num, one))
+            output.extend(logic(num, log10_=False))
 
     if hundreds_and_more:
         if british and int(tens_ones) > 0:
@@ -114,27 +111,16 @@ def logic(n, british=True, one=False):
                         for i, d in enumerate(reversed(hundreds_and_more), 2)]
 
         for nums in higher_units:
-            output.extend(chain(*[logic(num, one)for num in nums]))
+            output.extend(chain(*[logic(num, log10_=False)for num in nums]))
 
     return list(reversed(output))
 
 
-def number_to_words(n, one=False):
-    output = logic(n, one=one)
-    print(output)
+def number_to_words(n):
+    """Return the string of number to words, no spaces."""
+    output = logic(n, log10_=True)
     return ''.join([*output])
 
 
 if __name__ == "__main__":
-
-    # print(number_to_words(200))
-    #print(len(''.join(list(map(number_to_words, range(1, 1001))))))
-    exlude_one = partial(number_to_words,  one=True)
-    print(len(''.join(list(map(exlude_one, range(1, 1001))))))
-#
-    # print('*'*10)
-    #print(len(''.join(list(map(number_to_words, range(1, 6))))))
-    #print(len(''.join(list(map(number_to_words, range(1, 10))))))
-    #print(len(''.join(list(map(number_to_words, range(10, 20))))))
-    #print(len(''.join(list(map(number_to_words, range(20, 100))))))
-    #print(len(''.join(list(map(number_to_words, range(100, 1000))))))
+    print(len(''.join(list(map(number_to_words, range(1, 1001))))))
