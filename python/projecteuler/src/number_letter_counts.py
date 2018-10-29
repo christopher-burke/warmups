@@ -66,16 +66,10 @@ NUM_TO_WORDS = {
 }
 
 
-def partition_n(n: str) -> tuple:
-    """Return a partition of n.
-
-    The partition is on:
-    * High order - digits 100s and greater.
-    * Lower order - digits 10s and 1s.
-
-    :return: a tuple of n such that (high order units, low order units).
-    """
-    return (n[:-2], n[-2:],)
+def flatten(l):
+    return chain(*[logic(num, log10_=False)
+                   for num in
+                   l])
 
 
 def logic(n, british=True, log10_=False):
@@ -83,35 +77,39 @@ def logic(n, british=True, log10_=False):
 
     :return: List of all numbers to words.
     """
+    # TODO: Still a has a bug.
     try:
-        if n > 0:
+        if n > 0 and log10_:
             i, _, d = str(log10(n)).partition('.')
-            if log10_ and int(i) > 1 and int(d) == 0:
+            if int(i) > 1 and int(d) == 0:
                 return ['one', NUM_TO_WORDS[n]]
         return [NUM_TO_WORDS[n]]
     except KeyError:
         pass  # continue
 
     output = []
-    hundreds_and_more, tens_ones = partition_n(str(n))
+    number_string = str(n)
+    hundreds_and_more, tens_ones = (number_string[:-2], number_string[-2:],)
+    value_of_tens_ones = int(tens_ones)
 
-    if int(tens_ones) < 20:
-        output.extend(logic(int(tens_ones), log10_=False))
+    if value_of_tens_ones < 20:
+        output.extend(logic(value_of_tens_ones, log10_=False))
     else:
         lower_units = [10**i * int(d)
-                       for i, d in enumerate(reversed(tens_ones))]
+                       for i, d in
+                       enumerate(reversed(tens_ones))]
 
-        for num in lower_units:
-            output.extend(logic(num, log10_=False))
+        output.extend(flatten(lower_units))
 
     if hundreds_and_more:
-        if british and int(tens_ones) > 0:
+        if british and value_of_tens_ones > 0:
             output.append(f'and')
         higher_units = [(10**i, int(d))
-                        for i, d in enumerate(reversed(hundreds_and_more), 2)]
+                        for i, d in
+                        enumerate(reversed(hundreds_and_more), 2) if int(d) > 0]
 
         for nums in higher_units:
-            output.extend(chain(*[logic(num, log10_=False)for num in nums]))
+            output.extend(flatten(nums))
 
     return list(reversed(output))
 
@@ -119,8 +117,11 @@ def logic(n, british=True, log10_=False):
 def number_to_words(n):
     """Return the string of number to words, no spaces."""
     output = logic(n, log10_=True)
+
     return ''.join([*output])
 
 
 if __name__ == "__main__":
     print(len(''.join(list(map(number_to_words, range(1, 1001))))))
+    print(number_to_words(1001))
+    print(number_to_words(10000))
