@@ -7,10 +7,11 @@
 
 * These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-* There's now 22 python files in this repo.
+* There's now 24 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
+|<a href="./readme.py">readme.py</a>|Generate the README.md file a repo.|
 |<a href="./src/array123.py">src/array123.py</a>|Array 1 2 3.|
 |<a href="./src/array_count9.py">src/array\_count9.py</a>|Array Count 9.|
 |<a href="./src/array_front9.py">src/array\_front9.py</a>|Array Front 9|
@@ -20,6 +21,7 @@
 |<a href="./src/front_times.py">src/front\_times.py</a>|Front Times.|
 |<a href="./src/hello_name.py">src/hello\_name.py</a>|Hello Name.|
 |<a href="./src/last_two.py">src/last\_two.py</a>|Last Two.|
+|<a href="./src/make_abba.py">src/make\_abba.py</a>|Make abba.|
 |<a href="./src/makes_10.py">src/makes\_10.py</a>|Makes 10.|
 |<a href="./src/missing_char.py">src/missing\_char.py</a>|Missing Character.|
 |<a href="./src/monkey_trouble.py">src/monkey\_trouble.py</a>|monkey_trouble|
