@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-"""
+"""Merge Sort Example.
+
 Given an array A on size N, you need to find the number of ordered pairs  such that and .
 
 Input:
