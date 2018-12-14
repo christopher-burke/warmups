@@ -43,15 +43,16 @@ from typing import Collection
 
 def subarray_with_given_sum(array: Collection, target: int):
     """Find a subarray with target sum."""
-    for i in range(len(array)):
-        sum_ = 0
-        for j in array[i:]:
-            sum_ += j
-            if sum_ == target:
-                return (i, array.index(j),)
-            elif sum_ > target:
-                break
-
+    current_sum = 0
+    start = 0
+    for i in range(len(array)+1):
+        while (current_sum > target):
+            current_sum = current_sum - array[start]
+            start += 1
+        if current_sum == target:
+            return (start, i-1,)
+        if i < len(array):
+            current_sum = current_sum + array[i]
     return (-1,)
 
 
