@@ -13,10 +13,17 @@ sample = [1, 3, 5, 2, 2]
 
 def equilibrium(A):
     """Find the equilibrium point in the array A."""
-    for x in range(len(A)):
-        pivot = x
-        if sum(A[:pivot]) == sum(A[pivot+1:]):
-            return (True, pivot,)
+
+    total_sum = sum(A)
+    left_sum = 0
+
+    for i, num in enumerate(A):
+        total_sum -= num
+
+        if left_sum == total_sum:
+            return (True, i,)
+        left_sum += num
+
     return (False, -1,)
 
 
