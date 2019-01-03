@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 12 python files in this repo.
+There's now 13 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -12,6 +12,7 @@ There's now 12 python files in this repo.
 |<a href="./src/first_repeated_char.py">src/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./src/kadanes_algorithm.py">src/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./src/leaders_in_an_array.py">src/leaders\_in\_an\_array.py</a>|Leaders in an array.|
+|<a href="./src/max_of_all_subarrays_of_size_k.py">src/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
 |<a href="./src/maximum_sum_increasing_subsequence.py">src/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./src/merge_sort_example.py">src/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./src/minimum_platforms.py">src/minimum\_platforms.py</a>|Minimum Platforms.|
