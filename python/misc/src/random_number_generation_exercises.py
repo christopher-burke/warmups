@@ -28,6 +28,8 @@ class QuestionOne:
 
     def solve(self):
         """Find a solution for the question."""
+        print(f"Question: {self.question}")
+        print("Solution: [random.randrange(100, 999, 5) for i in range(3)]")
         return [random.randrange(100, 999, 5)
                 for i in range(3)]
 
