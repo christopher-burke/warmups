@@ -26,6 +26,7 @@ source: https://projecteuler.net/problem=17
 from itertools import chain
 from math import log10
 
+
 NUM_TO_WORDS = {
     0: '',
     1: 'one',
@@ -66,62 +67,51 @@ NUM_TO_WORDS = {
 }
 
 
-def flatten(l):
-    return chain(*[logic(num, log10_=False)
-                   for num in
-                   l])
-
-
 def logic(n, british=True, log10_=False):
     """Logic to convert [n]umber to string.
 
     :return: List of all numbers to words.
     """
-    # TODO: Still a has a bug.
-    try:
-        if n > 0 and log10_:
-            i, _, d = str(log10(n)).partition('.')
-            if int(i) > 1 and int(d) == 0:
-                return ['one', NUM_TO_WORDS[n]]
-        return [NUM_TO_WORDS[n]]
-    except KeyError:
-        pass  # continue
-
     output = []
-    number_string = str(n)
-    hundreds_and_more, tens_ones = (number_string[:-2], number_string[-2:],)
-    value_of_tens_ones = int(tens_ones)
 
-    if value_of_tens_ones < 20:
-        output.extend(logic(value_of_tens_ones, log10_=False))
+    if n in range(0, 20):
+        return [NUM_TO_WORDS[n]]
+
+    closest_value = min(
+        min(NUM_TO_WORDS, key=lambda x: n - x), 10**int(log10(n)))
+
+    if closest_value == n:
+        if n > 99:
+            output.append('one')
+            output.append(f'{NUM_TO_WORDS[n]}')
+        elif n < 20:
+            output.append(NUM_TO_WORDS[n])
+        else:
+            raise ValueError(f'{n} caused and issue.')
+
+    elif n > 9 and n < 100:
+        digit_value = int(n/10) * 10
+        output.append(NUM_TO_WORDS[digit_value])
+        output.append(NUM_TO_WORDS[n-digit_value])
     else:
-        lower_units = [10**i * int(d)
-                       for i, d in
-                       enumerate(reversed(tens_ones))]
+        digit_value = int(n/closest_value)
+        output.append(NUM_TO_WORDS[digit_value])
+        output.append(NUM_TO_WORDS[closest_value])
 
-        output.extend(flatten(lower_units))
+        next_iteration = n - (digit_value * closest_value)
 
-    if hundreds_and_more:
-        if british and value_of_tens_ones > 0:
-            output.append(f'and')
-        higher_units = [(10**i, int(d))
-                        for i, d in
-                        enumerate(reversed(hundreds_and_more), 2) if int(d) > 0]
-
-        for nums in higher_units:
-            output.extend(flatten(nums))
-
-    return list(reversed(output))
+        if next_iteration > 0:
+            output.append('and')
+            output.extend(logic(next_iteration,
+                                british=british, log10_=log10_))
+    return output
 
 
 def number_to_words(n):
     """Return the string of number to words, no spaces."""
     output = logic(n, log10_=True)
-
-    return ''.join([*output])
+    return ''.join([*output]).replace(' ', '')
 
 
 if __name__ == "__main__":
-    print(len(''.join(list(map(number_to_words, range(1, 1001))))))
-    print(number_to_words(1001))
-    print(number_to_words(10000))
+    print(len(''.join([number_to_words(i) for i in range(1, 1001)])))
