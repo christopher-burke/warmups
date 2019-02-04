@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 57 python files in this repo.
+There's now 63 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -39,11 +39,17 @@ There's now 57 python files in this repo.
 |<a href="./python/misc/src/first_repeated_char.py">python/misc/src/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./python/misc/src/kadanes_algorithm.py">python/misc/src/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./python/misc/src/leaders_in_an_array.py">python/misc/src/leaders\_in\_an\_array.py</a>|Leaders in an array.|
+|<a href="./python/misc/src/max_of_all_subarrays_of_size_k.py">python/misc/src/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
 |<a href="./python/misc/src/maximum_sum_increasing_subsequence.py">python/misc/src/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/src/merge_sort_example.py">python/misc/src/merge\_sort\_example.py</a>|Merge Sort Example.|
+|<a href="./python/misc/src/minimum_platforms.py">python/misc/src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./python/misc/src/missing_num_in_array.py">python/misc/src/missing\_num\_in\_array.py</a>|Missing number in array|
+|<a href="./python/misc/src/pythagorean_triplet.py">python/misc/src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
+|<a href="./python/misc/src/random_number_generation_exercises.py">python/misc/src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
+|<a href="./python/misc/src/reverse_array_in_groups.py">python/misc/src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/src/sort_array_012.py">python/misc/src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/src/subarray_with_given_sum.py">python/misc/src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
+|<a href="./python/misc/src/trapping_rain_water.py">python/misc/src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./python/projecteuler/src/__init__.py">python/projecteuler/src/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/projecteuler/src/even_fibonacci_numbers.py">python/projecteuler/src/even\_fibonacci\_numbers.py</a>|Even Fibonacci Numbers.|
 |<a href="./python/projecteuler/src/highly_divisible_triangular_number.py">python/projecteuler/src/highly\_divisible\_triangular\_number.py</a>|Highly divisible triangular number.|
