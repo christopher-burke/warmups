@@ -2,10 +2,11 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 17 python files in this repo.
+There's now 19 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
+|<a href="./src/chocolate_distribution_problem.py">src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./src/decode_message.py">src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./src/equilibrium_point.py">src/equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./src/find_sum.py">src/find\_sum.py</a>|Example find sum from a collection.|
@@ -17,6 +18,7 @@ There's now 17 python files in this repo.
 |<a href="./src/merge_sort_example.py">src/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./src/minimum_platforms.py">src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./src/missing_num_in_array.py">src/missing\_num\_in\_array.py</a>|Missing number in array|
+|<a href="./src/parenthesis_checker.py">src/parenthesis\_checker.py</a>|Parenthesis Checker.|
 |<a href="./src/pythagorean_triplet.py">src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./src/random_number_generation_exercises.py">src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./src/reverse_array_in_groups.py">src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
