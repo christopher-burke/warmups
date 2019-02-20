@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 63 python files in this repo.
+There's now 68 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -33,6 +33,7 @@ There's now 63 python files in this repo.
 |<a href="./python/codingbat/src/sum_double.py">python/codingbat/src/sum\_double.py</a>|sum_double|
 |<a href="./python/common/__init__.py">python/common/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/common/tools.py">python/common/tools.py</a>|Common functions needed for warmups.|
+|<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/src/decode_message.py">python/misc/src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./python/misc/src/equilibrium_point.py">python/misc/src/equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./python/misc/src/find_sum.py">python/misc/src/find\_sum.py</a>|Example find sum from a collection.|
@@ -44,9 +45,13 @@ There's now 63 python files in this repo.
 |<a href="./python/misc/src/merge_sort_example.py">python/misc/src/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./python/misc/src/minimum_platforms.py">python/misc/src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./python/misc/src/missing_num_in_array.py">python/misc/src/missing\_num\_in\_array.py</a>|Missing number in array|
+|<a href="./python/misc/src/parenthesis_checker.py">python/misc/src/parenthesis\_checker.py</a>|Parenthesis Checker.|
+|<a href="./python/misc/src/permutations.py">python/misc/src/permutations.py</a>|Permutations of a given string.|
 |<a href="./python/misc/src/pythagorean_triplet.py">python/misc/src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./python/misc/src/random_number_generation_exercises.py">python/misc/src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
+|<a href="./python/misc/src/remove_duplicates.py">python/misc/src/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/src/reverse_array_in_groups.py">python/misc/src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
+|<a href="./python/misc/src/reverse_words_in_a_given_string.py">python/misc/src/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./python/misc/src/sort_array_012.py">python/misc/src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/src/subarray_with_given_sum.py">python/misc/src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./python/misc/src/trapping_rain_water.py">python/misc/src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
