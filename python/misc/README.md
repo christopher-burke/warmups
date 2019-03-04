@@ -2,13 +2,14 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 24 python files in this repo.
+There's now 26 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
 |<a href="./src/anagram.py">src/anagram.py</a>|Anagram.|
 |<a href="./src/chocolate_distribution_problem.py">src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./src/decode_message.py">src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
+|<a href="./src/doctors_clinic.py">src/doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./src/equilibrium_point.py">src/equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./src/find_sum.py">src/find\_sum.py</a>|Example find sum from a collection.|
 |<a href="./src/first_repeated_char.py">src/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
@@ -30,3 +31,4 @@ There's now 24 python files in this repo.
 |<a href="./src/sort_array_012.py">src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./src/subarray_with_given_sum.py">src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./src/trapping_rain_water.py">src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
+|<a href="./src/zig_zag.py">src/zig\_zag.py</a>|Zig Zag.|

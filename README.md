@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 70 python files in this repo.
+There's now 72 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -36,6 +36,7 @@ There's now 70 python files in this repo.
 |<a href="./python/misc/src/anagram.py">python/misc/src/anagram.py</a>|Anagram.|
 |<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/src/decode_message.py">python/misc/src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
+|<a href="./python/misc/src/doctors_clinic.py">python/misc/src/doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./python/misc/src/equilibrium_point.py">python/misc/src/equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./python/misc/src/find_sum.py">python/misc/src/find\_sum.py</a>|Example find sum from a collection.|
 |<a href="./python/misc/src/first_repeated_char.py">python/misc/src/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
@@ -57,6 +58,7 @@ There's now 70 python files in this repo.
 |<a href="./python/misc/src/sort_array_012.py">python/misc/src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/src/subarray_with_given_sum.py">python/misc/src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./python/misc/src/trapping_rain_water.py">python/misc/src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
+|<a href="./python/misc/src/zig_zag.py">python/misc/src/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/projecteuler/src/__init__.py">python/projecteuler/src/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/projecteuler/src/even_fibonacci_numbers.py">python/projecteuler/src/even\_fibonacci\_numbers.py</a>|Even Fibonacci Numbers.|
 |<a href="./python/projecteuler/src/highly_divisible_triangular_number.py">python/projecteuler/src/highly\_divisible\_triangular\_number.py</a>|Highly divisible triangular number.|
