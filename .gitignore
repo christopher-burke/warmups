@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Local 
+.vscode
+
+# Readme and templates gen code.
+python/projecteuler/templates/*
+python/projecteuler/templates
+python/projecteuler/readme.py
+python/codingbat/templates/*
+python/codingbat/templates
+python/codingbat/readme.py
+python/projecteuler/start_new_problem.py
