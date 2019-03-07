@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 28 python files in this repo.
+There's now 29 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -31,6 +31,7 @@ There's now 28 python files in this repo.
 |<a href="./src/reverse_words_in_a_given_string.py">src/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./src/rotate_list.py">src/rotate\_list.py</a>|Rotate a Linked List.|
 |<a href="./src/sort_array_012.py">src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
+|<a href="./src/stock_buy_sell.py">src/stock\_buy\_sell.py</a>|Stock buy and sell.|
 |<a href="./src/subarray_with_given_sum.py">src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./src/trapping_rain_water.py">src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./src/zig_zag.py">src/zig\_zag.py</a>|Zig Zag.|
