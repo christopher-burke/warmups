@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 76 python files in this repo.
+There's now 77 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -45,6 +45,7 @@ There's now 76 python files in this repo.
 |<a href="./python/misc/src/largest_number_formed.py">python/misc/src/largest\_number\_formed.py</a>|Largest Number formed from an Array.|
 |<a href="./python/misc/src/leaders_in_an_array.py">python/misc/src/leaders\_in\_an\_array.py</a>|Leaders in an array.|
 |<a href="./python/misc/src/max_of_all_subarrays_of_size_k.py">python/misc/src/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
+|<a href="./python/misc/src/max_of_three.py">python/misc/src/max\_of\_three.py</a>|Max Of Three.|
 |<a href="./python/misc/src/maximum_sum_increasing_subsequence.py">python/misc/src/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/src/merge_sort_example.py">python/misc/src/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./python/misc/src/middle_element.py">python/misc/src/middle\_element.py</a>|Finding middle element in a linked list.|
