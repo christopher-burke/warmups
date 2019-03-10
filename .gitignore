@@ -115,3 +115,5 @@ python/codingbat/templates/*
 python/codingbat/templates
 python/codingbat/readme.py
 python/projecteuler/start_new_problem.py
+python/misc/sample.md
+python/misc/src/k_th_smallest_element.py
