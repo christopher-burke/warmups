@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 77 python files in this repo.
+There's now 78 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -52,6 +52,7 @@ There's now 77 python files in this repo.
 |<a href="./python/misc/src/minimum_platforms.py">python/misc/src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./python/misc/src/missing_num_in_array.py">python/misc/src/missing\_num\_in\_array.py</a>|Missing number in array|
 |<a href="./python/misc/src/parenthesis_checker.py">python/misc/src/parenthesis\_checker.py</a>|Parenthesis Checker.|
+|<a href="./python/misc/src/password_generator.py">python/misc/src/password\_generator.py</a>|Password generator.|
 |<a href="./python/misc/src/permutations.py">python/misc/src/permutations.py</a>|Permutations of a given string.|
 |<a href="./python/misc/src/pythagorean_triplet.py">python/misc/src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./python/misc/src/random_number_generation_exercises.py">python/misc/src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
