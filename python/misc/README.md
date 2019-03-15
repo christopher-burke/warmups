@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 32 python files in this repo.
+There's now 33 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -24,6 +24,7 @@ There's now 32 python files in this repo.
 |<a href="./src/middle_element.py">src/middle\_element.py</a>|Finding middle element in a linked list.|
 |<a href="./src/minimum_platforms.py">src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./src/missing_num_in_array.py">src/missing\_num\_in\_array.py</a>|Missing number in array|
+|<a href="./src/missing_third_angle.py">src/missing\_third\_angle.py</a>|Missing Third Angle.|
 |<a href="./src/parenthesis_checker.py">src/parenthesis\_checker.py</a>|Parenthesis Checker.|
 |<a href="./src/password_generator.py">src/password\_generator.py</a>|Password generator.|
 |<a href="./src/permutations.py">src/permutations.py</a>|Permutations of a given string.|
