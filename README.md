@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 79 python files in this repo.
+There's now 80 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -61,6 +61,7 @@ There's now 79 python files in this repo.
 |<a href="./python/misc/src/reverse_array_in_groups.py">python/misc/src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/src/reverse_words_in_a_given_string.py">python/misc/src/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./python/misc/src/rotate_list.py">python/misc/src/rotate\_list.py</a>|Rotate a Linked List.|
+|<a href="./python/misc/src/slices_of_pie.py">python/misc/src/slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./python/misc/src/sort_array_012.py">python/misc/src/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/src/stock_buy_sell.py">python/misc/src/stock\_buy\_sell.py</a>|Stock buy and sell.|
 |<a href="./python/misc/src/subarray_with_given_sum.py">python/misc/src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
