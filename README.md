@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 80 python files in this repo.
+There's now 81 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -66,6 +66,7 @@ There's now 80 python files in this repo.
 |<a href="./python/misc/src/stock_buy_sell.py">python/misc/src/stock\_buy\_sell.py</a>|Stock buy and sell.|
 |<a href="./python/misc/src/subarray_with_given_sum.py">python/misc/src/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./python/misc/src/trapping_rain_water.py">python/misc/src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
+|<a href="./python/misc/src/valid_zip_code.py">python/misc/src/valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./python/misc/src/zig_zag.py">python/misc/src/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/projecteuler/src/__init__.py">python/projecteuler/src/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/projecteuler/src/even_fibonacci_numbers.py">python/projecteuler/src/even\_fibonacci\_numbers.py</a>|Even Fibonacci Numbers.|
