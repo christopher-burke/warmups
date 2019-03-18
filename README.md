@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 81 python files in this repo.
+There's now 82 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -34,6 +34,7 @@ There's now 81 python files in this repo.
 |<a href="./python/common/__init__.py">python/common/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/common/tools.py">python/common/tools.py</a>|Common functions needed for warmups.|
 |<a href="./python/misc/src/anagram.py">python/misc/src/anagram.py</a>|Anagram.|
+|<a href="./python/misc/src/baseball.py">python/misc/src/baseball.py</a>|Baseball stat formulas.|
 |<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/src/decode_message.py">python/misc/src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./python/misc/src/doctors_clinic.py">python/misc/src/doctors\_clinic.py</a>|Doctors Clinic.|
