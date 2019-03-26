@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 87 python files in this repo.
+There's now 88 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -52,6 +52,7 @@ There's now 87 python files in this repo.
 |<a href="./python/misc/src/maximum_sum_increasing_subsequence.py">python/misc/src/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/src/merge_sort_example.py">python/misc/src/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./python/misc/src/middle_element.py">python/misc/src/middle\_element.py</a>|Finding middle element in a linked list.|
+|<a href="./python/misc/src/min_max_length_average.py">python/misc/src/min\_max\_length\_average.py</a>|Find the Minimum, Maximum, Length and Average Values.|
 |<a href="./python/misc/src/minimum_platforms.py">python/misc/src/minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./python/misc/src/missing_num_in_array.py">python/misc/src/missing\_num\_in\_array.py</a>|Missing number in array|
 |<a href="./python/misc/src/missing_third_angle.py">python/misc/src/missing\_third\_angle.py</a>|Missing Third Angle.|
