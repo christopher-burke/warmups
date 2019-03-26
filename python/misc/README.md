@@ -2,10 +2,11 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 40 python files in this repo.
+There's now 41 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
+|<a href="./src/accumulating_product.py">src/accumulating\_product.py</a>|Accumulating Product.|
 |<a href="./src/anagram.py">src/anagram.py</a>|Anagram.|
 |<a href="./src/baseball.py">src/baseball.py</a>|Baseball stat formulas.|
 |<a href="./src/chocolate_distribution_problem.py">src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
