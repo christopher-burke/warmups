@@ -107,6 +107,9 @@ venv.bak/
 # Local 
 .vscode
 
+# Ignore dir
+.ignore
+
 # Readme and templates gen code.
 python/projecteuler/templates/*
 python/projecteuler/templates
