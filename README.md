@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 89 python files in this repo.
+There's now 90 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -44,6 +44,7 @@ There's now 89 python files in this repo.
 |<a href="./python/misc/src/find_sum.py">python/misc/src/find\_sum.py</a>|Example find sum from a collection.|
 |<a href="./python/misc/src/find_the_odd_integer.py">python/misc/src/find\_the\_odd\_integer.py</a>|Find the Odd Integer.|
 |<a href="./python/misc/src/first_repeated_char.py">python/misc/src/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
+|<a href="./python/misc/src/format_number.py">python/misc/src/format\_number.py</a>|Format Number with Comma(s) Separating Thousands.|
 |<a href="./python/misc/src/initialize.py">python/misc/src/initialize.py</a>|Initialize.|
 |<a href="./python/misc/src/kadanes_algorithm.py">python/misc/src/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./python/misc/src/largest_number_formed.py">python/misc/src/largest\_number\_formed.py</a>|Largest Number formed from an Array.|
