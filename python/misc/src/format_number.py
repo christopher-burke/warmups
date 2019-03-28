@@ -29,7 +29,8 @@ def format_number(number: int):
     """Format the number, separating Thousands."""
     number_string = str(number)
     number_grouped = grouper(reversed(number_string), n=3, fillvalue='')
-    number_chunks = [''.join(reversed(num)) for num in number_grouped][::-1]
+    number_chunks = [''.join(reversed(num))
+                     for num in number_grouped][::-1]
 
     return ','.join(number_chunks)
 
