@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 92 python files in this repo.
+There's now 93 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -38,6 +38,7 @@ There's now 92 python files in this repo.
 |<a href="./python/misc/src/baseball.py">python/misc/src/baseball.py</a>|Baseball stat formulas.|
 |<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/src/convert_to_decimal_notation.py">python/misc/src/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
+|<a href="./python/misc/src/days_in_month.py">python/misc/src/days\_in\_month.py</a>|Days in a Month.|
 |<a href="./python/misc/src/decode_message.py">python/misc/src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./python/misc/src/doctors_clinic.py">python/misc/src/doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./python/misc/src/equilibrium_point.py">python/misc/src/equilibrium\_point.py</a>|Equilibrium point|
