@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 47 python files in this repo.
+There's now 48 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -42,6 +42,7 @@ There's now 47 python files in this repo.
 |<a href="./src/pythagorean_triplet.py">src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./src/random_number_generation_exercises.py">src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./src/remove_duplicates.py">src/remove\_duplicates.py</a>|Remove Duplicates.|
+|<a href="./src/repeat_letters_n_times.py">src/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
 |<a href="./src/reverse_array_in_groups.py">src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./src/reverse_words_in_a_given_string.py">src/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./src/rotate_list.py">src/rotate\_list.py</a>|Rotate a Linked List.|
