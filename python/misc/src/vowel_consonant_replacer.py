@@ -1,4 +1,4 @@
-consonants  # !/usr/bin/env python3
+# !/usr/bin/env python3
 
 """Vowel and Consonants Replacer.
 
