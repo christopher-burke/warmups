@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 48 python files in this repo.
+There's now 49 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -53,4 +53,5 @@ There's now 48 python files in this repo.
 |<a href="./src/symmetric_difference.py">src/symmetric\_difference.py</a>|Symmetric Difference.|
 |<a href="./src/trapping_rain_water.py">src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./src/valid_zip_code.py">src/valid\_zip\_code.py</a>|Valid Zip Code.|
+|<a href="./src/vowel_consonant_replacer.py">src/vowel\_consonant\_replacer.py</a>|No docstring provided.|
 |<a href="./src/zig_zag.py">src/zig\_zag.py</a>|Zig Zag.|
