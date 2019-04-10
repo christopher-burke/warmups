@@ -2,13 +2,14 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 49 python files in this repo.
+There's now 50 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
 |<a href="./src/accumulating_product.py">src/accumulating\_product.py</a>|Accumulating Product.|
 |<a href="./src/anagram.py">src/anagram.py</a>|Anagram.|
 |<a href="./src/baseball.py">src/baseball.py</a>|Baseball stat formulas.|
+|<a href="./src/char_to_ascii.py">src/char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./src/chocolate_distribution_problem.py">src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./src/convert_to_decimal_notation.py">src/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
 |<a href="./src/days_in_month.py">src/days\_in\_month.py</a>|Days in a Month.|
@@ -53,5 +54,5 @@ There's now 49 python files in this repo.
 |<a href="./src/symmetric_difference.py">src/symmetric\_difference.py</a>|Symmetric Difference.|
 |<a href="./src/trapping_rain_water.py">src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./src/valid_zip_code.py">src/valid\_zip\_code.py</a>|Valid Zip Code.|
-|<a href="./src/vowel_consonant_replacer.py">src/vowel\_consonant\_replacer.py</a>|No docstring provided.|
+|<a href="./src/vowel_consonant_replacer.py">src/vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
 |<a href="./src/zig_zag.py">src/zig\_zag.py</a>|Zig Zag.|

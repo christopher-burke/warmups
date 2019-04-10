@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 95 python files in this repo.
+There's now 96 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -36,6 +36,7 @@ There's now 95 python files in this repo.
 |<a href="./python/misc/src/accumulating_product.py">python/misc/src/accumulating\_product.py</a>|Accumulating Product.|
 |<a href="./python/misc/src/anagram.py">python/misc/src/anagram.py</a>|Anagram.|
 |<a href="./python/misc/src/baseball.py">python/misc/src/baseball.py</a>|Baseball stat formulas.|
+|<a href="./python/misc/src/char_to_ascii.py">python/misc/src/char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/src/convert_to_decimal_notation.py">python/misc/src/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
 |<a href="./python/misc/src/days_in_month.py">python/misc/src/days\_in\_month.py</a>|Days in a Month.|
@@ -80,7 +81,7 @@ There's now 95 python files in this repo.
 |<a href="./python/misc/src/symmetric_difference.py">python/misc/src/symmetric\_difference.py</a>|Symmetric Difference.|
 |<a href="./python/misc/src/trapping_rain_water.py">python/misc/src/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./python/misc/src/valid_zip_code.py">python/misc/src/valid\_zip\_code.py</a>|Valid Zip Code.|
-|<a href="./python/misc/src/vowel_consonant_replacer.py">python/misc/src/vowel\_consonant\_replacer.py</a>|No docstring provided.|
+|<a href="./python/misc/src/vowel_consonant_replacer.py">python/misc/src/vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
 |<a href="./python/misc/src/zig_zag.py">python/misc/src/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/projecteuler/src/__init__.py">python/projecteuler/src/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/projecteuler/src/even_fibonacci_numbers.py">python/projecteuler/src/even\_fibonacci\_numbers.py</a>|Even Fibonacci Numbers.|
