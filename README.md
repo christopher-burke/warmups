@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 96 python files in this repo.
+There's now 97 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -35,6 +35,7 @@ There's now 96 python files in this repo.
 |<a href="./python/common/tools.py">python/common/tools.py</a>|Common functions needed for warmups.|
 |<a href="./python/misc/src/accumulating_product.py">python/misc/src/accumulating\_product.py</a>|Accumulating Product.|
 |<a href="./python/misc/src/anagram.py">python/misc/src/anagram.py</a>|Anagram.|
+|<a href="./python/misc/src/atm_pin_code_validation.py">python/misc/src/atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./python/misc/src/baseball.py">python/misc/src/baseball.py</a>|Baseball stat formulas.|
 |<a href="./python/misc/src/char_to_ascii.py">python/misc/src/char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./python/misc/src/chocolate_distribution_problem.py">python/misc/src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
