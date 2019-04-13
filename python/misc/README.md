@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 51 python files in this repo.
+There's now 52 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -13,6 +13,7 @@ There's now 51 python files in this repo.
 |<a href="./src/char_to_ascii.py">src/char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./src/chocolate_distribution_problem.py">src/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./src/convert_to_decimal_notation.py">src/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
+|<a href="./src/count_args.py">src/count\_args.py</a>|Count the Arguments.|
 |<a href="./src/days_in_month.py">src/days\_in\_month.py</a>|Days in a Month.|
 |<a href="./src/decode_message.py">src/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./src/doctors_clinic.py">src/doctors\_clinic.py</a>|Doctors Clinic.|
