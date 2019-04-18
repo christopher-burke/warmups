@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 98 python files in this repo.
+There's now 99 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -73,6 +73,7 @@ There's now 98 python files in this repo.
 |<a href="./python/misc/src/random_number_generation_exercises.py">python/misc/src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./python/misc/src/remove_duplicates.py">python/misc/src/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/src/repeat_letters_n_times.py">python/misc/src/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
+|<a href="./python/misc/src/retrieve_subreddit.py">python/misc/src/retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
 |<a href="./python/misc/src/reverse_array_in_groups.py">python/misc/src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/src/reverse_words_in_a_given_string.py">python/misc/src/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./python/misc/src/rotate_list.py">python/misc/src/rotate\_list.py</a>|Rotate a Linked List.|
