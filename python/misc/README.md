@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 53 python files in this repo.
+There's now 54 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -27,6 +27,7 @@ There's now 53 python files in this repo.
 |<a href="./src/kadanes_algorithm.py">src/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./src/largest_number_formed.py">src/largest\_number\_formed.py</a>|Largest Number formed from an Array.|
 |<a href="./src/leaders_in_an_array.py">src/leaders\_in\_an\_array.py</a>|Leaders in an array.|
+|<a href="./src/maskify.py">src/maskify.py</a>|Maskify the String.|
 |<a href="./src/max_of_all_subarrays_of_size_k.py">src/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
 |<a href="./src/max_of_three.py">src/max\_of\_three.py</a>|Max Of Three.|
 |<a href="./src/maximum_sum_increasing_subsequence.py">src/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
