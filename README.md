@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 100 python files in this repo.
+There's now 101 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -73,6 +73,7 @@ There's now 100 python files in this repo.
 |<a href="./python/misc/src/pythagorean_triplet.py">python/misc/src/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./python/misc/src/random_number_generation_exercises.py">python/misc/src/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./python/misc/src/remove_duplicates.py">python/misc/src/remove\_duplicates.py</a>|Remove Duplicates.|
+|<a href="./python/misc/src/remove_smallest.py">python/misc/src/remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./python/misc/src/repeat_letters_n_times.py">python/misc/src/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
 |<a href="./python/misc/src/retrieve_subreddit.py">python/misc/src/retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
 |<a href="./python/misc/src/reverse_array_in_groups.py">python/misc/src/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
