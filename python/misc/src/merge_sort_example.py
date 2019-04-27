@@ -71,4 +71,5 @@ def main(N, A):
     print(merge_sort(A, 0, N))
 
 
-main(A=[1, 4, 3, 2, 5, ], N=5)
+if __name__ == "__main__":
+    main(A=[1, 4, 3, 2, 5, ], N=5)
