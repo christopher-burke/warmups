@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 60 python files in this repo.
+There's now 61 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -62,6 +62,7 @@ There's now 60 python files in this repo.
 |<a href="./stock_buy_sell.py">stock\_buy\_sell.py</a>|Stock buy and sell.|
 |<a href="./subarray_with_given_sum.py">subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./symmetric_difference.py">symmetric\_difference.py</a>|Symmetric Difference.|
+|<a href="./to_the_power.py">to\_the\_power.py</a>|To the Power of _. Calculate Exponent.|
 |<a href="./trapping_rain_water.py">trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./valid_zip_code.py">valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./vowel_consonant_replacer.py">vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
