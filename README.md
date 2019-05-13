@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 108 python files in this repo.
+There's now 109 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -52,6 +52,7 @@ There's now 108 python files in this repo.
 |<a href="./python/misc/first_repeated_char.py">python/misc/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./python/misc/format_number.py">python/misc/format\_number.py</a>|Format Number with Comma(s) Separating Thousands.|
 |<a href="./python/misc/hacker_speak.py">python/misc/hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
+|<a href="./python/misc/hello_name.py">python/misc/hello\_name.py</a>|Hello name.|
 |<a href="./python/misc/index_string_characters.py">python/misc/index\_string\_characters.py</a>|Return the Index of All Capital Letters.|
 |<a href="./python/misc/initialize.py">python/misc/initialize.py</a>|Initialize.|
 |<a href="./python/misc/k_th_smallest_element.py">python/misc/k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
