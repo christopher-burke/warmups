@@ -10,18 +10,27 @@ Source:
 https://edabit.com/challenge/CDqMdrTvfn2Wa8igp
 """
 
-from typing import List
+from typing import List, Union
+from collections import namedtuple
+
+ArithmeticSequence = namedtuple("ArithmeticSequence", ["arithmetic_sequence",
+                                                       "msg",
+                                                       "step"])
 
 
-def is_arithmetic_sequence(sequence: List) -> (bool, str):
+def is_arithmetic_sequence(sequence: List) -> (bool, str, Union[int, object]):
     """Determine if the sequence is an Arithmetic Sequence."""
     if not(len(sequence) >= 2):
-        return False, f"Sequence '{sequence}' is too short."
+        return ArithmeticSequence(False,
+                                  f"Sequence '{sequence}' is too short.",
+                                  object(),)
     step = sequence[1] - sequence[0]
     for index, element in enumerate(sequence[1:], start=2):
         if index < len(sequence) and not(sequence[index] - element == step):
-            return False, f"Sequence '{sequence}' different constant in sequence."
-    return True, ""
+            return ArithmeticSequence(False,
+                                      f"Sequence '{sequence}' different constant in sequence.",
+                                      object())
+    return ArithmeticSequence(True, "", step,)
 
 
 def next_element(sequence: List)-> int:
@@ -29,11 +38,13 @@ def next_element(sequence: List)-> int:
     # Test if sequence is an arithmetic sequence.
     # find_next_element is True proceed to finding next element
     # else raise ArithmeticError with msg.
-    find_next_element, msg = is_arithmetic_sequence(sequence)
-    if not(find_next_element):
+    arithmetic_sequence, msg, step = is_arithmetic_sequence(sequence)
+    if not(arithmetic_sequence):
         raise ArithmeticError(f"{msg}")
-    arithmetic_sequence = sequence[-1] - sequence[-2]
-    next_ = sequence[-1] + arithmetic_sequence
+    # Check to see if step is an integer.
+    if not(isinstance(step, int)):
+        raise TypeError(f"The 'step' value is not type int.")
+    next_ = sequence[-1] + step
     return next_
 
 
