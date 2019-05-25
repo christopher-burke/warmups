@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 66 python files in this repo.
+There's now 67 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -50,6 +50,7 @@ There's now 66 python files in this repo.
 |<a href="./parenthesis_checker.py">parenthesis\_checker.py</a>|Parenthesis Checker.|
 |<a href="./password_generator.py">password\_generator.py</a>|Password generator.|
 |<a href="./permutations.py">permutations.py</a>|Permutations of a given string.|
+|<a href="./phone_number_formatting.py">phone\_number\_formatting.py</a>|Phone Number Formatting.|
 |<a href="./positive_count_negative_sum.py">positive\_count\_negative\_sum.py</a>|Positive Count / Negative Sum.|
 |<a href="./profitable_gamble.py">profitable\_gamble.py</a>|Profitable Gamble.|
 |<a href="./pythagorean_triplet.py">pythagorean\_triplet.py</a>|Pythagorean Triplet.|
