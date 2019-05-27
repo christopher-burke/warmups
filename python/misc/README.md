@@ -2,12 +2,13 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 68 python files in this repo.
+There's now 69 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
 |<a href="./__init__.py">\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./accumulating_product.py">accumulating\_product.py</a>|Accumulating Product.|
+|<a href="./additive_inverse.py">additive\_inverse.py</a>|Additive Inverse.|
 |<a href="./anagram.py">anagram.py</a>|Anagram.|
 |<a href="./atm_pin_code_validation.py">atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./baseball.py">baseball.py</a>|Baseball stat formulas.|
