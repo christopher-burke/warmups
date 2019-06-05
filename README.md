@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 119 python files in this repo.
+There's now 120 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -86,6 +86,7 @@ There's now 119 python files in this repo.
 |<a href="./python/misc/profitable_gamble.py">python/misc/profitable\_gamble.py</a>|Profitable Gamble.|
 |<a href="./python/misc/pythagorean_triplet.py">python/misc/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./python/misc/random_number_generation_exercises.py">python/misc/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
+|<a href="./python/misc/remainder_two_numbers.py">python/misc/remainder\_two\_numbers.py</a>|Return the Remainder from Two Numbers.|
 |<a href="./python/misc/remove_duplicates.py">python/misc/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/remove_smallest.py">python/misc/remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./python/misc/repeat_letters_n_times.py">python/misc/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
