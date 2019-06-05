@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 72 python files in this repo.
+There's now 73 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -16,6 +16,7 @@ There's now 72 python files in this repo.
 |<a href="./char_to_ascii.py">char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./chocolate_distribution_problem.py">chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./combinations.py">combinations.py</a>|Combinations.|
+|<a href="./compare_days.py">compare\_days.py</a>|Compare Days - Find the number of days between two dates.|
 |<a href="./convert_to_decimal_notation.py">convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
 |<a href="./count_args.py">count\_args.py</a>|Count the Arguments.|
 |<a href="./day_of_week.py">day\_of\_week.py</a>|Day of the week.|
