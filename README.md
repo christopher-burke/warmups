@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 120 python files in this repo.
+There's now 121 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -90,6 +90,7 @@ There's now 120 python files in this repo.
 |<a href="./python/misc/remove_duplicates.py">python/misc/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/remove_smallest.py">python/misc/remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./python/misc/repeat_letters_n_times.py">python/misc/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
+|<a href="./python/misc/replace_letters_with_position.py">python/misc/replace\_letters\_with\_position.py</a>|Replace Letters With Position In Alphabet.|
 |<a href="./python/misc/retrieve_subreddit.py">python/misc/retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
 |<a href="./python/misc/reverse_array_in_groups.py">python/misc/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/reverse_words_in_a_given_string.py">python/misc/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
