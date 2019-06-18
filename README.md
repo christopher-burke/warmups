@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 123 python files in this repo.
+There's now 124 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -46,6 +46,7 @@ There's now 123 python files in this repo.
 |<a href="./python/misc/compare_days.py">python/misc/compare\_days.py</a>|Compare Days - Find the number of days between two dates.|
 |<a href="./python/misc/convert_to_decimal_notation.py">python/misc/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
 |<a href="./python/misc/count_args.py">python/misc/count\_args.py</a>|Count the Arguments.|
+|<a href="./python/misc/current_military_time.py">python/misc/current\_military\_time.py</a>|Current Military Time.|
 |<a href="./python/misc/day_of_week.py">python/misc/day\_of\_week.py</a>|Day of the week.|
 |<a href="./python/misc/days_in_month.py">python/misc/days\_in\_month.py</a>|Days in a Month.|
 |<a href="./python/misc/decode_message.py">python/misc/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
