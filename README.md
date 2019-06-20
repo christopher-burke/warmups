@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 124 python files in this repo.
+There's now 125 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -107,6 +107,7 @@ There's now 124 python files in this repo.
 |<a href="./python/misc/swap_case.py">python/misc/swap\_case.py</a>|Swap case.|
 |<a href="./python/misc/symmetric_difference.py">python/misc/symmetric\_difference.py</a>|Symmetric Difference.|
 |<a href="./python/misc/to_the_power.py">python/misc/to\_the\_power.py</a>|To the Power of _. Calculate Exponent.|
+|<a href="./python/misc/today_birthday.py">python/misc/today\_birthday.py</a>|Today Birthday.|
 |<a href="./python/misc/trapping_rain_water.py">python/misc/trapping\_rain\_water.py</a>|Trapping Rain Water.|
 |<a href="./python/misc/valid_zip_code.py">python/misc/valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./python/misc/vowel_consonant_replacer.py">python/misc/vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
