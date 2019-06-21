@@ -30,9 +30,8 @@ def calculate_age(year1: int, year2: int) -> int:
     return age
 
 
-def run() -> str:
-    """Run functions. Do not import."""
-    birthdate = input_birthdate().date()
+def result(birthdate: datetime.date) -> str:
+    """Process the birthdate and return the result."""
     today = datetime.now().date()
     if birthdate == today:
         return "Date entered was today."
@@ -41,6 +40,12 @@ def run() -> str:
         return f"Happy Birthday! " + \
             f"Age now is now {age} year{'s' if age > 1 else ''} old."
     return f"The birthdate {birthdate} is not today."
+
+
+def run() -> str:
+    """Run function. Do not import."""
+    birthdate = input_birthdate().date()
+    return result(birthdate)
 
 
 def main():
