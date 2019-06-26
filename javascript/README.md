@@ -6,4 +6,4 @@ There's now 1 javascript file in this repo.
 
 | Script  |
 | ------------- |
-|<a href="./javascript/return_sum_of_numbers.js"></a>|
+|<a href="./javascript/return_sum_of_numbers.js">return_sum_of_numbers.js</a>|
