@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 130 python files in this repo.
+There's now 131 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -103,6 +103,7 @@ There's now 130 python files in this repo.
 |<a href="./python/misc/reverse_array_in_groups.py">python/misc/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/reverse_words_in_a_given_string.py">python/misc/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./python/misc/rotate_list.py">python/misc/rotate\_list.py</a>|Rotate a Linked List.|
+|<a href="./python/misc/seven_boom.py">python/misc/seven\_boom.py</a>|Seven Boom!|
 |<a href="./python/misc/slices_of_pie.py">python/misc/slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./python/misc/sort_array_012.py">python/misc/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/sort_string.py">python/misc/sort\_string.py</a>|Sort String.|
