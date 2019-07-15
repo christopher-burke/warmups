@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 85 python files in this repo.
+There's now 86 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -13,6 +13,7 @@ There's now 85 python files in this repo.
 |<a href="./anagram.py">anagram.py</a>|Anagram.|
 |<a href="./atm_pin_code_validation.py">atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./baseball.py">baseball.py</a>|Baseball stat formulas.|
+|<a href="./change_to_next_letter.py">change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
 |<a href="./char_to_ascii.py">char\_to\_ascii.py</a>|Character to ASCII.|
 |<a href="./chocolate_distribution_problem.py">chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./combinations.py">combinations.py</a>|Combinations.|
