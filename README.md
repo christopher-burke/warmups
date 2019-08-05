@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 133 python files in this repo.
+There's now 134 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -70,6 +70,7 @@ There's now 133 python files in this repo.
 |<a href="./python/misc/k_th_smallest_element.py">python/misc/k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./python/misc/kadanes_algorithm.py">python/misc/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./python/misc/largest_number_formed.py">python/misc/largest\_number\_formed.py</a>|Largest Number formed from an Array.|
+|<a href="./python/misc/last_digit_ultimate.py">python/misc/last\_digit\_ultimate.py</a>|Last Digit Ultimate.|
 |<a href="./python/misc/leaders_in_an_array.py">python/misc/leaders\_in\_an\_array.py</a>|Leaders in an array.|
 |<a href="./python/misc/magic_date.py">python/misc/magic\_date.py</a>|You are to read each part of the date into its own integer type variable.|
 |<a href="./python/misc/majority_vote.py">python/misc/majority\_vote.py</a>|Majority Vote.|
