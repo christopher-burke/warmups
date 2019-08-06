@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 134 python files in this repo.
+There's now 135 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -74,6 +74,7 @@ There's now 134 python files in this repo.
 |<a href="./python/misc/leaders_in_an_array.py">python/misc/leaders\_in\_an\_array.py</a>|Leaders in an array.|
 |<a href="./python/misc/magic_date.py">python/misc/magic\_date.py</a>|You are to read each part of the date into its own integer type variable.|
 |<a href="./python/misc/majority_vote.py">python/misc/majority\_vote.py</a>|Majority Vote.|
+|<a href="./python/misc/making_a_box.py">python/misc/making\_a\_box.py</a>|Making a Box.|
 |<a href="./python/misc/maskify.py">python/misc/maskify.py</a>|Maskify the String.|
 |<a href="./python/misc/max_of_all_subarrays_of_size_k.py">python/misc/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
 |<a href="./python/misc/max_of_three.py">python/misc/max\_of\_three.py</a>|Max Of Three.|
