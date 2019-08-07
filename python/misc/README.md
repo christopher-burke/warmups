@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 89 python files in this repo.
+There's now 90 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -62,6 +62,7 @@ There's now 89 python files in this repo.
 |<a href="./next_element.py">next\_element.py</a>|Next Element - Next Element in Arithmetic Sequence.|
 |<a href="./number_to_month.py">number\_to\_month.py</a>|Number to month.|
 |<a href="./odd_up_even_down_n_times.py">odd\_up\_even\_down\_n\_times.py</a>|Odd Up, Even Down - N Times.|
+|<a href="./pandigital_numbers.py">pandigital\_numbers.py</a>|Pandigital Numbers.|
 |<a href="./parenthesis_checker.py">parenthesis\_checker.py</a>|Parenthesis Checker.|
 |<a href="./password_generator.py">password\_generator.py</a>|Password generator.|
 |<a href="./pentagonal_number.py">pentagonal\_number.py</a>|Pentagonal Number|
