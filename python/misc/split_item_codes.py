@@ -24,6 +24,14 @@ def split_code(code: str) -> list:
     return [match.group(1), int(match.group(2)), ]
 
 
+def split_code_mix(code: str) -> list:
+    """Split code string to list, regardless of position."""
+    code_lst = list(code)
+    alpha = "".join([i for i in code_lst if i.isalpha()])
+    numeric = int(("".join([i for i in code_lst if i.isnumeric()])))
+    return [alpha, numeric, ]
+
+
 def main():
     """Run sample split_code functions. Do not import."""
     assert split_code("TEWA8392") == ["TEWA", 8392]
