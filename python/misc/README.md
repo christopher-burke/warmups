@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 90 python files in this repo.
+There's now 91 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -85,6 +85,7 @@ There's now 90 python files in this repo.
 |<a href="./slices_of_pie.py">slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./sort_array_012.py">sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./sort_string.py">sort\_string.py</a>|Sort String.|
+|<a href="./split_item_codes.py">split\_item\_codes.py</a>|Split Item Codes.|
 |<a href="./split_username.py">split\_username.py</a>|Split usernames.|
 |<a href="./stock_buy_sell.py">stock\_buy\_sell.py</a>|Stock buy and sell.|
 |<a href="./subarray_with_given_sum.py">subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
