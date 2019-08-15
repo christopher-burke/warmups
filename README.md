@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 138 python files in this repo.
+There's now 139 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -63,6 +63,7 @@ There's now 138 python files in this repo.
 |<a href="./python/misc/find_the_odd_integer.py">python/misc/find\_the\_odd\_integer.py</a>|Find the Odd Integer.|
 |<a href="./python/misc/first_repeated_char.py">python/misc/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./python/misc/format_number.py">python/misc/format\_number.py</a>|Format Number with Comma(s) Separating Thousands.|
+|<a href="./python/misc/full_house.py">python/misc/full\_house.py</a>|Poker Full House.|
 |<a href="./python/misc/hacker_speak.py">python/misc/hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
 |<a href="./python/misc/happy_number.py">python/misc/happy\_number.py</a>|Happy Numbers.|
 |<a href="./python/misc/hello_name.py">python/misc/hello\_name.py</a>|Hello name.|
