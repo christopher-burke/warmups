@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 93 python files in this repo.
+There's now 94 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -80,6 +80,7 @@ There's now 93 python files in this repo.
 |<a href="./repeat_letters_n_times.py">repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
 |<a href="./replace_letters_with_position.py">replace\_letters\_with\_position.py</a>|Replace Letters With Position In Alphabet.|
 |<a href="./retrieve_subreddit.py">retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
+|<a href="./return_the_objects_keys_and_values.py">return\_the\_objects\_keys\_and\_values.py</a>|Return the Objects Keys and Values.|
 |<a href="./reverse_array_in_groups.py">reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./reverse_words_in_a_given_string.py">reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./rotate_list.py">rotate\_list.py</a>|Rotate a Linked List.|
