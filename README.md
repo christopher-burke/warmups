@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 141 python files in this repo.
+There's now 142 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -81,6 +81,7 @@ There's now 141 python files in this repo.
 |<a href="./python/misc/maskify.py">python/misc/maskify.py</a>|Maskify the String.|
 |<a href="./python/misc/max_of_all_subarrays_of_size_k.py">python/misc/max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
 |<a href="./python/misc/max_of_three.py">python/misc/max\_of\_three.py</a>|Max Of Three.|
+|<a href="./python/misc/maximum_edge_of_a_triangle.py">python/misc/maximum\_edge\_of\_a\_triangle.py</a>|Maximum Edge of a Triangle.|
 |<a href="./python/misc/maximum_sum_increasing_subsequence.py">python/misc/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/merge_sort_example.py">python/misc/merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./python/misc/middle_element.py">python/misc/middle\_element.py</a>|Finding middle element in a linked list.|
