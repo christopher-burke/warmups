@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 96 python files in this repo.
+There's now 97 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -38,6 +38,7 @@ There's now 96 python files in this repo.
 |<a href="./first_repeated_char.py">first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./format_number.py">format\_number.py</a>|Format Number with Comma(s) Separating Thousands.|
 |<a href="./full_house.py">full\_house.py</a>|Poker Full House.|
+|<a href="./grocery_store_prices.py">grocery\_store\_prices.py</a>|Grocery Store Prices.|
 |<a href="./hacker_speak.py">hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
 |<a href="./happy_number.py">happy\_number.py</a>|Happy Numbers.|
 |<a href="./hello_name.py">hello\_name.py</a>|Hello name.|
