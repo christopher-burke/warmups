@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 144 python files in this repo.
+There's now 145 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -72,6 +72,7 @@ There's now 144 python files in this repo.
 |<a href="./python/misc/hello_name.py">python/misc/hello\_name.py</a>|Hello name.|
 |<a href="./python/misc/index_string_characters.py">python/misc/index\_string\_characters.py</a>|Return the Index of All Capital Letters.|
 |<a href="./python/misc/initialize.py">python/misc/initialize.py</a>|Initialize.|
+|<a href="./python/misc/is_isogram.py">python/misc/is\_isogram.py</a>|Isogram.|
 |<a href="./python/misc/k_th_smallest_element.py">python/misc/k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./python/misc/kadanes_algorithm.py">python/misc/kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./python/misc/largest_number_formed.py">python/misc/largest\_number\_formed.py</a>|Largest Number formed from an Array.|
