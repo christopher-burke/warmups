@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 100 python files in this repo.
+There's now 101 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -78,6 +78,7 @@ There's now 100 python files in this repo.
 |<a href="./phone_number_formatting.py">phone\_number\_formatting.py</a>|Phone Number Formatting.|
 |<a href="./positive_count_negative_sum.py">positive\_count\_negative\_sum.py</a>|Positive Count / Negative Sum.|
 |<a href="./profitable_gamble.py">profitable\_gamble.py</a>|Profitable Gamble.|
+|<a href="./progress_days.py">progress\_days.py</a>|Progress.|
 |<a href="./pythagorean_triplet.py">pythagorean\_triplet.py</a>|Pythagorean Triplet.|
 |<a href="./random_number_generation_exercises.py">random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./remainder_two_numbers.py">remainder\_two\_numbers.py</a>|Return the Remainder from Two Numbers.|
