@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 101 python files in this repo.
+There's now 102 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -48,6 +48,7 @@ There's now 101 python files in this repo.
 |<a href="./is_isogram.py">is\_isogram.py</a>|Isogram.|
 |<a href="./k_th_smallest_element.py">k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./kadanes_algorithm.py">kadanes\_algorithm.py</a>|Kadane's Algorithm|
+|<a href="./karacas_encryption_algorithm.py">karacas\_encryption\_algorithm.py</a>|The Karaca's Encryption Algorithm.|
 |<a href="./largest_number_formed.py">largest\_number\_formed.py</a>|Largest Number formed from an Array.|
 |<a href="./last_digit_ultimate.py">last\_digit\_ultimate.py</a>|Last Digit Ultimate.|
 |<a href="./leaders_in_an_array.py">leaders\_in\_an\_array.py</a>|Leaders in an array.|
