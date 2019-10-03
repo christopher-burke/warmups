@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 108 python files in this repo.
+There's now 109 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -48,6 +48,7 @@ There's now 108 python files in this repo.
 |<a href="./hello_name.py">hello\_name.py</a>|Hello name.|
 |<a href="./index_string_characters.py">index\_string\_characters.py</a>|Return the Index of All Capital Letters.|
 |<a href="./initialize.py">initialize.py</a>|Initialize.|
+|<a href="./intersecting_intervals.py">intersecting\_intervals.py</a>|Intersecting Intervals.|
 |<a href="./intro_to_map_reduce_pattern.py">intro\_to\_map\_reduce\_pattern.py</a>|An Introduction to the Map-Reduce Pattern|
 |<a href="./is_isogram.py">is\_isogram.py</a>|Isogram.|
 |<a href="./k_th_smallest_element.py">k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
