@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 159 python files in this repo.
+There's now 160 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -61,6 +61,7 @@ There's now 159 python files in this repo.
 |<a href="./python/misc/double_letters.py">python/misc/double\_letters.py</a>|Double Letters.|
 |<a href="./python/misc/equality_of_three_values.py">python/misc/equality\_of\_three\_values.py</a>|Equality of 3 Values.|
 |<a href="./python/misc/equilibrium_point.py">python/misc/equilibrium\_point.py</a>|Equilibrium point|
+|<a href="./python/misc/fewest_bills_coins.py">python/misc/fewest\_bills\_coins.py</a>|Fewest bills and coins.|
 |<a href="./python/misc/find_element_that_appears_only_once.py">python/misc/find\_element\_that\_appears\_only\_once.py</a>|Find the element that appears once in sorted array.|
 |<a href="./python/misc/find_odd.py">python/misc/find\_odd.py</a>|Find the Odd Integer.|
 |<a href="./python/misc/find_sum.py">python/misc/find\_sum.py</a>|Example find sum from a collection.|
