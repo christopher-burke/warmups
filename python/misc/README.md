@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 114 python files in this repo.
+There's now 115 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -53,6 +53,7 @@ There's now 114 python files in this repo.
 |<a href="./intersecting_intervals.py">intersecting\_intervals.py</a>|Intersecting Intervals.|
 |<a href="./intro_to_map_reduce_pattern.py">intro\_to\_map\_reduce\_pattern.py</a>|An Introduction to the Map-Reduce Pattern|
 |<a href="./is_isogram.py">is\_isogram.py</a>|Isogram.|
+|<a href="./is_leap_year.py">is\_leap\_year.py</a>|Determine Leap Year.|
 |<a href="./k_th_smallest_element.py">k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./kadanes_algorithm.py">kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./karacas_encryption_algorithm.py">karacas\_encryption\_algorithm.py</a>|The Karaca's Encryption Algorithm.|
