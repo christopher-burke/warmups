@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 116 python files in this repo.
+There's now 117 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -27,6 +27,7 @@ There's now 116 python files in this repo.
 |<a href="./convert_to_hex.py">convert\_to\_hex.py</a>|Convert to Hex.|
 |<a href="./count_args.py">count\_args.py</a>|Count the Arguments.|
 |<a href="./count_letters_in_a_word_search.py">count\_letters\_in\_a\_word\_search.py</a>|Count Letters in a Word Search.|
+|<a href="./create_random_username.py">create\_random\_username.py</a>|Create random usernames.|
 |<a href="./current_military_time.py">current\_military\_time.py</a>|Current Military Time.|
 |<a href="./day_of_week.py">day\_of\_week.py</a>|Day of the week.|
 |<a href="./days_in_month.py">days\_in\_month.py</a>|Days in a Month.|
