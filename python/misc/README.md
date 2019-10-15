@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 118 python files in this repo.
+There's now 119 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -112,6 +112,7 @@ There's now 118 python files in this repo.
 |<a href="./split_item_codes.py">split\_item\_codes.py</a>|Split Item Codes.|
 |<a href="./split_username.py">split\_username.py</a>|Split usernames.|
 |<a href="./stock_buy_sell.py">stock\_buy\_sell.py</a>|Stock buy and sell.|
+|<a href="./string_to_integer_and_vice_versa.py">string\_to\_integer\_and\_vice\_versa.py</a>|String to Integer and Vice Versa.|
 |<a href="./subarray_with_given_sum.py">subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./swap_case.py">swap\_case.py</a>|Swap case.|
 |<a href="./symmetric_difference.py">symmetric\_difference.py</a>|Symmetric Difference.|
