@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 165 python files in this repo.
+There's now 166 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -38,6 +38,7 @@ There's now 165 python files in this repo.
 |<a href="./python/misc/additive_inverse.py">python/misc/additive\_inverse.py</a>|Additive Inverse.|
 |<a href="./python/misc/adviceslip.py">python/misc/adviceslip.py</a>|Advice Slip - Random.|
 |<a href="./python/misc/anagram.py">python/misc/anagram.py</a>|Anagram.|
+|<a href="./python/misc/are_the_numbers_equal.py">python/misc/are\_the\_numbers\_equal.py</a>|Are the Numbers Equal? - warmup.|
 |<a href="./python/misc/area_triangle.py">python/misc/area\_triangle.py</a>|Area of a Triangle.|
 |<a href="./python/misc/area_triangle_heron.py">python/misc/area\_triangle\_heron.py</a>|Area of triangle - Heron's Formula.|
 |<a href="./python/misc/atm_pin_code_validation.py">python/misc/atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
