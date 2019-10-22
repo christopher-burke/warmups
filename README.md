@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 169 python files in this repo.
+There's now 170 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -118,6 +118,7 @@ There's now 169 python files in this repo.
 |<a href="./python/misc/permutations.py">python/misc/permutations.py</a>|Permutations of a given string.|
 |<a href="./python/misc/phone_number_formatting.py">python/misc/phone\_number\_formatting.py</a>|Phone Number Formatting.|
 |<a href="./python/misc/positive_count_negative_sum.py">python/misc/positive\_count\_negative\_sum.py</a>|Positive Count / Negative Sum.|
+|<a href="./python/misc/power_ranger.py">python/misc/power\_ranger.py</a>|Power Ranger.|
 |<a href="./python/misc/profitable_gamble.py">python/misc/profitable\_gamble.py</a>|Profitable Gamble.|
 |<a href="./python/misc/progress_days.py">python/misc/progress\_days.py</a>|Progress.|
 |<a href="./python/misc/pythagorean_triplet.py">python/misc/pythagorean\_triplet.py</a>|Pythagorean Triplet.|
