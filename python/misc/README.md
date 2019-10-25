@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 127 python files in this repo.
+There's now 128 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -53,6 +53,7 @@ There's now 127 python files in this repo.
 |<a href="./hacker_speak.py">hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
 |<a href="./happy_number.py">happy\_number.py</a>|Happy Numbers.|
 |<a href="./hello_name.py">hello\_name.py</a>|Hello name.|
+|<a href="./hours_minutes_to_seconds.py">hours\_minutes\_to\_seconds.py</a>|Hours and Minutes to Seconds.|
 |<a href="./index_string_characters.py">index\_string\_characters.py</a>|Return the Index of All Capital Letters.|
 |<a href="./initialize.py">initialize.py</a>|Initialize.|
 |<a href="./intersecting_intervals.py">intersecting\_intervals.py</a>|Intersecting Intervals.|
