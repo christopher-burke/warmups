@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 174 python files in this repo.
+There's now 175 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -43,6 +43,7 @@ There's now 174 python files in this repo.
 |<a href="./python/misc/area_triangle_heron.py">python/misc/area\_triangle\_heron.py</a>|Area of triangle - Heron's Formula.|
 |<a href="./python/misc/atm_pin_code_validation.py">python/misc/atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./python/misc/baseball.py">python/misc/baseball.py</a>|Baseball stat formulas.|
+|<a href="./python/misc/basic_statistics_mode.py">python/misc/basic\_statistics\_mode.py</a>|Basic Statistics: Mode.|
 |<a href="./python/misc/calculate_profit.py">python/misc/calculate\_profit.py</a>|Calculate the Profit.|
 |<a href="./python/misc/capitalization_families.py">python/misc/capitalization\_families.py</a>|Capitalization Families.|
 |<a href="./python/misc/change_to_next_letter.py">python/misc/change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
