@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 174 python files in this repo.
+There's now 175 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -160,6 +160,7 @@ There's now 174 python files in this repo.
 |<a href="./python/misc/unique_character_mapping.py">python/misc/unique\_character\_mapping.py</a>|Unique Character Mapping|
 |<a href="./python/misc/valid_zip_code.py">python/misc/valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./python/misc/vowel_consonant_replacer.py">python/misc/vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
+|<a href="./python/misc/words_with_duplicate_letters.py">python/misc/words\_with\_duplicate\_letters.py</a>|Words With Duplicate Letters.|
 |<a href="./python/misc/zig_zag.py">python/misc/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/projecteuler/src/__init__.py">python/projecteuler/src/\_\_init\_\_.py</a>|No docstring provided.|
 |<a href="./python/projecteuler/src/even_fibonacci_numbers.py">python/projecteuler/src/even\_fibonacci\_numbers.py</a>|Even Fibonacci Numbers.|
