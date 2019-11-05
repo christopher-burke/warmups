@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 176 python files in this repo.
+There's now 177 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -144,6 +144,7 @@ There's now 176 python files in this repo.
 |<a href="./python/misc/seconds_in_hours.py">python/misc/seconds\_in\_hours.py</a>|Seconds in Hours.|
 |<a href="./python/misc/seven_boom.py">python/misc/seven\_boom.py</a>|Seven Boom!|
 |<a href="./python/misc/slices_of_pie.py">python/misc/slices\_of\_pie.py</a>|Slice of Pie.|
+|<a href="./python/misc/smooth_sentence.py">python/misc/smooth\_sentence.py</a>|Smooth Sentences.|
 |<a href="./python/misc/sort_array_012.py">python/misc/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/sort_string.py">python/misc/sort\_string.py</a>|Sort String.|
 |<a href="./python/misc/split_item_codes.py">python/misc/split\_item\_codes.py</a>|Split Item Codes.|
