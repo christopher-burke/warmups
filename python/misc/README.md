@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 132 python files in this repo.
+There's now 133 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -117,6 +117,7 @@ There's now 132 python files in this repo.
 |<a href="./rotate_list.py">rotate\_list.py</a>|Rotate a Linked List.|
 |<a href="./seconds_in_hours.py">seconds\_in\_hours.py</a>|Seconds in Hours.|
 |<a href="./seven_boom.py">seven\_boom.py</a>|Seven Boom!|
+|<a href="./single_swap.py">single\_swap.py</a>|Single Letter Swaps.|
 |<a href="./slices_of_pie.py">slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./smooth_sentence.py">smooth\_sentence.py</a>|Smooth Sentences.|
 |<a href="./sort_array_012.py">sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
