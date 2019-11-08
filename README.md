@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 179 python files in this repo.
+There's now 180 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -48,6 +48,7 @@ There's now 179 python files in this repo.
 |<a href="./python/misc/capitalization_families.py">python/misc/capitalization\_families.py</a>|Capitalization Families.|
 |<a href="./python/misc/change_to_next_letter.py">python/misc/change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
 |<a href="./python/misc/char_to_ascii.py">python/misc/char\_to\_ascii.py</a>|Character to ASCII.|
+|<a href="./python/misc/check_if_lines_are_parallel.py">python/misc/check\_if\_lines\_are\_parallel.py</a>|Check If Lines Are Parallel.|
 |<a href="./python/misc/chocolate_distribution_problem.py">python/misc/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
 |<a href="./python/misc/combinations.py">python/misc/combinations.py</a>|Combinations.|
 |<a href="./python/misc/compare_days.py">python/misc/compare\_days.py</a>|Compare Days - Find the number of days between two dates.|
