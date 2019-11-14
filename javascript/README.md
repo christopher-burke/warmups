@@ -10,4 +10,3 @@ There's now 4 javascript file in this repo.
 |<a href="./edabit/return_sum_of_numbers.js">return_sum_of_numbers</a>|
 |<a href="./edabit/minutes_to_seconds.js">minutes_to_seconds</a>|
 |<a href="./edabit/return_the_first_element_in_an_array.js">return_the_first_element_in_an_array</a>|
-|
