@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 137 python files in this repo.
+There's now 138 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -38,6 +38,7 @@ There's now 137 python files in this repo.
 |<a href="./day_of_week.py">day\_of\_week.py</a>|Day of the week.|
 |<a href="./days_in_month.py">days\_in\_month.py</a>|Days in a Month.|
 |<a href="./decode_message.py">decode\_message.py</a>|Number of Ways to Decode an encoded string.|
+|<a href="./divisible_by_five.py">divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
 |<a href="./doctors_clinic.py">doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./double_letters.py">double\_letters.py</a>|Double Letters.|
 |<a href="./equality_of_three_values.py">equality\_of\_three\_values.py</a>|Equality of 3 Values.|
