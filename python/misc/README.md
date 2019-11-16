@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 138 python files in this repo.
+There's now 139 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -87,6 +87,7 @@ There's now 138 python files in this repo.
 |<a href="./merge_sort_example.py">merge\_sort\_example.py</a>|Merge Sort Example.|
 |<a href="./middle_element.py">middle\_element.py</a>|Finding middle element in a linked list.|
 |<a href="./min_max_length_average.py">min\_max\_length\_average.py</a>|Find the Minimum, Maximum, Length and Average Values.|
+|<a href="./minimum_difference_pair.py">minimum\_difference\_pair.py</a>|Minimum Difference Pair.|
 |<a href="./minimum_platforms.py">minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./minutes_to_seconds.py">minutes\_to\_seconds.py</a>|Minutes to Seconds.|
 |<a href="./missing_num_in_array.py">missing\_num\_in\_array.py</a>|Missing number in array|
