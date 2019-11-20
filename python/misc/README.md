@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 142 python files in this repo.
+There's now 143 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -17,6 +17,7 @@ There's now 142 python files in this repo.
 |<a href="./atm_pin_code_validation.py">atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./baseball.py">baseball.py</a>|Baseball stat formulas.|
 |<a href="./basic_statistics_mode.py">basic\_statistics\_mode.py</a>|Basic Statistics: Mode.|
+|<a href="./blackjack.py">blackjack.py</a>|Blackjack.|
 |<a href="./calculate_profit.py">calculate\_profit.py</a>|Calculate the Profit.|
 |<a href="./capitalization_families.py">capitalization\_families.py</a>|Capitalization Families.|
 |<a href="./change_to_next_letter.py">change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
