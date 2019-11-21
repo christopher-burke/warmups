@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 143 python files in this repo.
+There's now 144 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -113,6 +113,7 @@ There's now 143 python files in this repo.
 |<a href="./random_number_generation_exercises.py">random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
 |<a href="./remainder_two_numbers.py">remainder\_two\_numbers.py</a>|Return the Remainder from Two Numbers.|
 |<a href="./remove_duplicates.py">remove\_duplicates.py</a>|Remove Duplicates.|
+|<a href="./remove_duplicates_from_list.py">remove\_duplicates\_from\_list.py</a>|Remove Duplicates from a List.|
 |<a href="./remove_smallest.py">remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./repeat_letters_n_times.py">repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
 |<a href="./replace_letters_with_position.py">replace\_letters\_with\_position.py</a>|Replace Letters With Position In Alphabet.|
