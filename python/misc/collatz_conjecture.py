@@ -22,11 +22,8 @@ https://edabit.com/challenge/Z8REdTE5P57f4q7dK
 def collatz_sequence(n: int):
     """Find the Collatz sequence of n."""
     CACHE = {1: [1]}
-    CACHE_LENGTH = {1: 1}
-
     if n in CACHE:
         return CACHE[n]
-
     next_ = int(n // 2) if n % 2 == 0 else int(3 * n + 1)
     CACHE[n] = [n] + collatz_sequence(next_)
 
