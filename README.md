@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 191 python files in this repo.
+There's now 192 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -56,6 +56,7 @@ There's now 191 python files in this repo.
 |<a href="./python/misc/compare_days.py">python/misc/compare\_days.py</a>|Compare Days - Find the number of days between two dates.|
 |<a href="./python/misc/complete_the_word.py">python/misc/complete\_the\_word.py</a>|Complete the Word.|
 |<a href="./python/misc/concat.py">python/misc/concat.py</a>|Concatenate Variable Number of Input Lists.|
+|<a href="./python/misc/concatenate_first_and_last_name_into_one_string.py">python/misc/concatenate\_first\_and\_last\_name\_into\_one\_string.py</a>|Concatenate First and Last Name into One String.|
 |<a href="./python/misc/concatenate_variable_number_of_input_lists.py">python/misc/concatenate\_variable\_number\_of\_input\_lists.py</a>|Concatenate Variable Number of Input Lists.|
 |<a href="./python/misc/consecutive_numbers.py">python/misc/consecutive\_numbers.py</a>|Consecutive Numbers.|
 |<a href="./python/misc/convert_to_decimal_notation.py">python/misc/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
