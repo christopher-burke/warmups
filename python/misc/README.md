@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 146 python files in this repo.
+There's now 147 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -70,6 +70,7 @@ There's now 146 python files in this repo.
 |<a href="./is_isogram.py">is\_isogram.py</a>|Isogram.|
 |<a href="./is_leap_year.py">is\_leap\_year.py</a>|Determine Leap Year.|
 |<a href="./is_symmetrical.py">is\_symmetrical.py</a>|Number Symmetrical.|
+|<a href="./is_the_string_empty.py">is\_the\_string\_empty.py</a>|Is the string empty.|
 |<a href="./k_th_smallest_element.py">k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./kadanes_algorithm.py">kadanes\_algorithm.py</a>|Kadane's Algorithm|
 |<a href="./karacas_encryption_algorithm.py">karacas\_encryption\_algorithm.py</a>|The Karaca's Encryption Algorithm.|
