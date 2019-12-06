@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 150 python files in this repo.
+There's now 151 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -52,6 +52,7 @@ There's now 150 python files in this repo.
 |<a href="./initialize.py">initialize.py</a>|Initialize.|
 |<a href="./slices_of_pie.py">slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./concat.py">concat.py</a>|Concatenate Variable Number of Input Lists.|
+|<a href="./ascii_charts_progress_bar.py">ascii\_charts\_progress\_bar.py</a>|ASCII Charts (Part 1: Progress Bar).|
 |<a href="./doctors_clinic.py">doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./unique_character_mapping.py">unique\_character\_mapping.py</a>|Unique Character Mapping|
 |<a href="./is_leap_year.py">is\_leap\_year.py</a>|Determine Leap Year.|
