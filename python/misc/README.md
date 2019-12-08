@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 151 python files in this repo.
+There's now 152 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -77,6 +77,7 @@ There's now 151 python files in this repo.
 |<a href="./equilibrium_point.py">equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./missing_num_in_array.py">missing\_num\_in\_array.py</a>|Missing number in array|
 |<a href="./magic_date.py">magic\_date.py</a>|You are to read each part of the date into its own integer type variable.|
+|<a href="./find_the_largest_number_in_a_list.py">find\_the\_largest\_number\_in\_a\_list.py</a>|Find the Largest Number in a List.|
 |<a href="./create_random_username.py">create\_random\_username.py</a>|Create random usernames.|
 |<a href="./fewest_bills_coins.py">fewest\_bills\_coins.py</a>|Fewest bills and coins.|
 |<a href="./find_duplicate_in_array.py">find\_duplicate\_in\_array.py</a>|Find duplicate in array.|
