@@ -19,13 +19,15 @@ https://edabit.com/challenge/cx7eFvQBzjauLgwgZ
 
 def remove_smallest(ratings: list) -> list:
     """Remove the smallest rating from list."""
-    min_, index_ = ratings[0], 0
-    for index, score in enumerate(ratings):
-        if score < int(min_):
-            min_ = score
-            index_ = index
-    ratings.pop(index_)
+    if ratings:
+        min_, index_ = ratings[0], 0
+        for index, score in enumerate(ratings):
+            if score < int(min_):
+                min_ = score
+                index_ = index
+        ratings.pop(index_)
     return ratings
+    
 
 
 def main():
