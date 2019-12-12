@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 152 python files in this repo.
+There's now 153 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -110,6 +110,7 @@ There's now 152 python files in this repo.
 |<a href="./solving_exponential_equations_with_logarithms.py">solving\_exponential\_equations\_with\_logarithms.py</a>|Solving Exponential Equations With Logarithms.|
 |<a href="./whos_the_oldest.py">whos\_the\_oldest.py</a>|Find the oldest. Who's The Oldest?|
 |<a href="./hacker_speak.py">hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
+|<a href="./is_prime.py">is\_prime.py</a>|Is the number Prime.|
 |<a href="./days_in_month.py">days\_in\_month.py</a>|Days in a Month.|
 |<a href="./divisible_by_five.py">divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
 |<a href="./sort_array_012.py">sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
