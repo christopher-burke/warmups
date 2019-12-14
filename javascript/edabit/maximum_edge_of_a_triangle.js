@@ -11,7 +11,7 @@ Create a function that finds the maximum range of a triangle 's third edge.
 ## Notes
 (side1 + side2) - 1 = maximum range of third edge.
 All given triangles have side lengths that are positive integers.
-Don 't foget to return the result.
+Don 't forget to return the result.
 
 Source:
 https: //edabit.com/challenge/nhXofMMyrowMyr9Nv
