@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 153 python files in this repo.
+There's now 154 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -55,6 +55,7 @@ There's now 153 python files in this repo.
 |<a href="./ascii_charts_progress_bar.py">ascii\_charts\_progress\_bar.py</a>|ASCII Charts (Part 1: Progress Bar).|
 |<a href="./doctors_clinic.py">doctors\_clinic.py</a>|Doctors Clinic.|
 |<a href="./unique_character_mapping.py">unique\_character\_mapping.py</a>|Unique Character Mapping|
+|<a href="./return_first_and_last_parameter.py">return\_first\_and\_last\_parameter.py</a>|Return First and Last Parameter.|
 |<a href="./is_leap_year.py">is\_leap\_year.py</a>|Determine Leap Year.|
 |<a href="./subarray_with_given_sum.py">subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
 |<a href="./pandigital_numbers.py">pandigital\_numbers.py</a>|Pandigital Numbers.|
