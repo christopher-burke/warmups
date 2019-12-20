@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 154 python files in this repo.
+There's now 155 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -50,6 +50,7 @@ There's now 154 python files in this repo.
 |<a href="./is_the_string_empty.py">is\_the\_string\_empty.py</a>|Is the string empty.|
 |<a href="./index_string_characters.py">index\_string\_characters.py</a>|Return the Index of All Capital Letters.|
 |<a href="./initialize.py">initialize.py</a>|Initialize.|
+|<a href="./binary_to_ascii_conversion.py">binary\_to\_ascii\_conversion.py</a>|Binary to ASCII Conversion.|
 |<a href="./slices_of_pie.py">slices\_of\_pie.py</a>|Slice of Pie.|
 |<a href="./concat.py">concat.py</a>|Concatenate Variable Number of Input Lists.|
 |<a href="./ascii_charts_progress_bar.py">ascii\_charts\_progress\_bar.py</a>|ASCII Charts (Part 1: Progress Bar).|
