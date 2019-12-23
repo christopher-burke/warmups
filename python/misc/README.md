@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 155 python files in this repo.
+There's now 156 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -90,6 +90,7 @@ There's now 155 python files in this repo.
 |<a href="./string_to_integer_and_vice_versa.py">string\_to\_integer\_and\_vice\_versa.py</a>|String to Integer and Vice Versa.|
 |<a href="./sort_string.py">sort\_string.py</a>|Sort String.|
 |<a href="./full_house.py">full\_house.py</a>|Poker Full House.|
+|<a href="./sort_numbers_in_descending_order.py">sort\_numbers\_in\_descending\_order.py</a>|Sort Numbers in Descending Order.|
 |<a href="./maximum_difference.py">maximum\_difference.py</a>|Maximum Difference.|
 |<a href="./smooth_sentence.py">smooth\_sentence.py</a>|Smooth Sentences.|
 |<a href="./format_number.py">format\_number.py</a>|Format Number with Comma(s) Separating Thousands.|
