@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 202 python files in this repo.
+There's now 203 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -115,6 +115,7 @@ There's now 202 python files in this repo.
 |<a href="./python/misc/hacker_speak.py">python/misc/hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
 |<a href="./python/misc/is_prime.py">python/misc/is\_prime.py</a>|Is the number Prime.|
 |<a href="./python/misc/days_in_month.py">python/misc/days\_in\_month.py</a>|Days in a Month.|
+|<a href="./python/misc/russian_roulette.py">python/misc/russian\_roulette.py</a>|Russian roulette.|
 |<a href="./python/misc/divisible_by_five.py">python/misc/divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
 |<a href="./python/misc/sort_array_012.py">python/misc/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/number_to_month.py">python/misc/number\_to\_month.py</a>|Number to month.|
