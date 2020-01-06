@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 158 python files in this repo.
+There's now 159 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -103,6 +103,7 @@ There's now 158 python files in this repo.
 |<a href="./two_distinct_elements.py">two\_distinct\_elements.py</a>|Two Distinct Elements.|
 |<a href="./equality_of_three_values.py">equality\_of\_three\_values.py</a>|Equality of 3 Values.|
 |<a href="./partially_hidden_string.py">partially\_hidden\_string.py</a>|Partially Hidden String.|
+|<a href="./remove_every_vowel_from_a_string.py">remove\_every\_vowel\_from\_a\_string.py</a>|Remove Every Vowel from a String.|
 |<a href="./numbers_in_strings.py">numbers\_in\_strings.py</a>|Numbers in Strings.|
 |<a href="./odd_up_even_down_n_times.py">odd\_up\_even\_down\_n\_times.py</a>|Odd Up, Even Down - N Times.|
 |<a href="./blackjack.py">blackjack.py</a>|Blackjack.|
