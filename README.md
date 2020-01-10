@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 205 python files in this repo.
+There's now 206 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -29,6 +29,7 @@ There's now 205 python files in this repo.
 |<a href="./python/misc/find_element_that_appears_only_once.py">python/misc/find\_element\_that\_appears\_only\_once.py</a>|Find the element that appears once in sorted array.|
 |<a href="./python/misc/swap_case.py">python/misc/swap\_case.py</a>|Swap case.|
 |<a href="./python/misc/last_digit_ultimate.py">python/misc/last\_digit\_ultimate.py</a>|Last Digit Ultimate.|
+|<a href="./python/misc/difference_of_max_min_in_list.py">python/misc/difference\_of\_max\_min\_in\_list.py</a>|Difference of Max and Min Numbers in List.|
 |<a href="./python/misc/power_ranger.py">python/misc/power\_ranger.py</a>|Power Ranger.|
 |<a href="./python/misc/compare_days.py">python/misc/compare\_days.py</a>|Compare Days - Find the number of days between two dates.|
 |<a href="./python/misc/chocolate_distribution_problem.py">python/misc/chocolate\_distribution\_problem.py</a>|Chocolate Distribution Problem.|
