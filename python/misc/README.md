@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 161 python files in this repo.
+There's now 162 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -72,6 +72,7 @@ There's now 161 python files in this repo.
 |<a href="./find_the_odd_integer.py">find\_the\_odd\_integer.py</a>|Find the Odd Integer.|
 |<a href="./anagram.py">anagram.py</a>|Anagram.|
 |<a href="./__init__.py">\_\_init\_\_.py</a>|No docstring provided.|
+|<a href="./multiple_of_one_hundred.py">multiple\_of\_one\_hundred.py</a>|Multiple of 100.|
 |<a href="./symmetric_difference.py">symmetric\_difference.py</a>|Symmetric Difference.|
 |<a href="./retrieve_subreddit.py">retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
 |<a href="./are_the_numbers_equal.py">are\_the\_numbers\_equal.py</a>|Are the Numbers Equal? - warmup.|
