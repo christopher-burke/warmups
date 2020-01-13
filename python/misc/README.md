@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 160 python files in this repo.
+There's now 161 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -121,6 +121,7 @@ There's now 160 python files in this repo.
 |<a href="./russian_roulette.py">russian\_roulette.py</a>|Russian roulette.|
 |<a href="./divisible_by_five.py">divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
 |<a href="./sort_array_012.py">sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
+|<a href="./return_the_next_number_from_the_integer_passed.py">return\_the\_next\_number\_from\_the\_integer\_passed.py</a>|Return the Next Number from the Integer Passed.|
 |<a href="./number_to_month.py">number\_to\_month.py</a>|Number to month.|
 |<a href="./concatenate_variable_number_of_input_lists.py">concatenate\_variable\_number\_of\_input\_lists.py</a>|Concatenate Variable Number of Input Lists.|
 |<a href="./the_farm_problem.py">the\_farm\_problem.py</a>|The Farm Problem.|

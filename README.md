@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 206 python files in this repo.
+There's now 207 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -121,6 +121,7 @@ There's now 206 python files in this repo.
 |<a href="./python/misc/russian_roulette.py">python/misc/russian\_roulette.py</a>|Russian roulette.|
 |<a href="./python/misc/divisible_by_five.py">python/misc/divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
 |<a href="./python/misc/sort_array_012.py">python/misc/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
+|<a href="./python/misc/return_the_next_number_from_the_integer_passed.py">python/misc/return\_the\_next\_number\_from\_the\_integer\_passed.py</a>|Return the Next Number from the Integer Passed.|
 |<a href="./python/misc/number_to_month.py">python/misc/number\_to\_month.py</a>|Number to month.|
 |<a href="./python/misc/concatenate_variable_number_of_input_lists.py">python/misc/concatenate\_variable\_number\_of\_input\_lists.py</a>|Concatenate Variable Number of Input Lists.|
 |<a href="./python/misc/the_farm_problem.py">python/misc/the\_farm\_problem.py</a>|The Farm Problem.|
