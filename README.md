@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 209 python files in this repo.
+There's now 210 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -23,6 +23,7 @@ There's now 209 python files in this repo.
 |<a href="./python/misc/next_element.py">python/misc/next\_element.py</a>|Next Element - Next Element in Arithmetic Sequence.|
 |<a href="./python/misc/k_th_smallest_element.py">python/misc/k\_th\_smallest\_element.py</a>|K’th Smallest/Largest Element in Unsorted Array.|
 |<a href="./python/misc/kadanes_algorithm.py">python/misc/kadanes\_algorithm.py</a>|Kadane's Algorithm|
+|<a href="./python/misc/name_greeting.py">python/misc/name\_greeting.py</a>|Name Greeting!|
 |<a href="./python/misc/split_username.py">python/misc/split\_username.py</a>|Split usernames.|
 |<a href="./python/misc/consecutive_numbers.py">python/misc/consecutive\_numbers.py</a>|Consecutive Numbers.|
 |<a href="./python/misc/convert_to_decimal_notation.py">python/misc/convert\_to\_decimal\_notation.py</a>|Convert to Decimal Notation.|
