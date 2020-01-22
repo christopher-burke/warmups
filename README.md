@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 210 python files in this repo.
+There's now 211 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -122,6 +122,7 @@ There's now 210 python files in this repo.
 |<a href="./python/misc/days_in_month.py">python/misc/days\_in\_month.py</a>|Days in a Month.|
 |<a href="./python/misc/russian_roulette.py">python/misc/russian\_roulette.py</a>|Russian roulette.|
 |<a href="./python/misc/divisible_by_five.py">python/misc/divisible\_by\_five.py</a>|Check if an Integer is Divisible By Five.|
+|<a href="./python/misc/compare_strings_by_count_of_characters.py">python/misc/compare\_strings\_by\_count\_of\_characters.py</a>|Compare Strings by Count of Characters.|
 |<a href="./python/misc/sort_array_012.py">python/misc/sort\_array\_012.py</a>|Sort an array of 0s, 1s and 2s|
 |<a href="./python/misc/return_the_next_number_from_the_integer_passed.py">python/misc/return\_the\_next\_number\_from\_the\_integer\_passed.py</a>|Return the Next Number from the Integer Passed.|
 |<a href="./python/misc/number_to_month.py">python/misc/number\_to\_month.py</a>|Number to month.|
