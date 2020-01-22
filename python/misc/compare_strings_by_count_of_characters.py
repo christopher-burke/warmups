@@ -11,9 +11,9 @@ https://edabit.com/challenge/C3N2JEfFQoh4cqQ98
 """
 
 
-def comp(txt1: str, txt2: str) -> bool:
+def comp(*args) -> bool:
     """Compare string lengths."""
-    return len(txt1) == len(txt2)
+    return len(set([len(arg) for arg in args])) == 1
 
 
 def main():
@@ -25,6 +25,8 @@ def main():
     assert comp("jrnvjrnnt", "cvjknfjvmfvnfjn") is False
     assert comp("jkvnjrt", "krnf") is False
     assert comp("Facebook", "Snapchat") is True
+    assert comp("AB", "CD", "EF") is True
+    assert comp("ABC", "DE", "ABC") is False
     print('Passed.')
 
 
