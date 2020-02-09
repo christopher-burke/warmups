@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 169 python files in this repo.
+There's now 170 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -149,6 +149,7 @@ There's now 169 python files in this repo.
 |<a href="./find_sum.py">find\_sum.py</a>|Example find sum from a collection.|
 |<a href="./concatenating_two_integer_lists.py">concatenating\_two\_integer\_lists.py</a>|Concatenating Two Integer Lists.|
 |<a href="./vowel_consonant_replacer.py">vowel\_consonant\_replacer.py</a>|Vowel and Consonants Replacer.|
+|<a href="./convert_number_to_string_of_dashes.py">convert\_number\_to\_string\_of\_dashes.py</a>|Convert Number to String of Dashes.|
 |<a href="./combinations.py">combinations.py</a>|Combinations.|
 |<a href="./find_odd.py">find\_odd.py</a>|Find the Odd Integer.|
 |<a href="./accumulating_product.py">accumulating\_product.py</a>|Accumulating Product.|
