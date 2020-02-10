@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 216 python files in this repo.
+There's now 217 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -107,6 +107,7 @@ There's now 216 python files in this repo.
 |<a href="./python/misc/remove_smallest.py">python/misc/remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./python/misc/return_first_element_in_a_list.py">python/misc/return\_first\_element\_in\_a\_list.py</a>|Return the First Element in a List.|
 |<a href="./python/misc/two_distinct_elements.py">python/misc/two\_distinct\_elements.py</a>|Two Distinct Elements.|
+|<a href="./python/misc/compound_interest.py">python/misc/compound\_interest.py</a>|Compound Interest.|
 |<a href="./python/misc/equality_of_three_values.py">python/misc/equality\_of\_three\_values.py</a>|Equality of 3 Values.|
 |<a href="./python/misc/partially_hidden_string.py">python/misc/partially\_hidden\_string.py</a>|Partially Hidden String.|
 |<a href="./python/misc/remove_every_vowel_from_a_string.py">python/misc/remove\_every\_vowel\_from\_a\_string.py</a>|Remove Every Vowel from a String.|
