@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 171 python files in this repo.
+There's now 172 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -39,6 +39,7 @@ There's now 171 python files in this repo.
 |<a href="./find_smallest_number.py">find\_smallest\_number.py</a>|Find the Smallest Number in a List.|
 |<a href="./return_remainder_from_two_numbers.py">return\_remainder\_from\_two\_numbers.py</a>|Return the Remainder from Two Numbers.|
 |<a href="./intersecting_intervals.py">intersecting\_intervals.py</a>|Intersecting Intervals.|
+|<a href="./free_coffee_cups.py">free\_coffee\_cups.py</a>|Free Coffee Cups.|
 |<a href="./double_letters.py">double\_letters.py</a>|Double Letters.|
 |<a href="./to_the_power_of.py">to\_the\_power\_of.py</a>|To the Power of.|
 |<a href="./progress_days.py">progress\_days.py</a>|Progress.|
