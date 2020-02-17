@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 218 python files in this repo.
+There's now 219 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -41,6 +41,7 @@ There's now 218 python files in this repo.
 |<a href="./python/misc/intersecting_intervals.py">python/misc/intersecting\_intervals.py</a>|Intersecting Intervals.|
 |<a href="./python/misc/free_coffee_cups.py">python/misc/free\_coffee\_cups.py</a>|Free Coffee Cups.|
 |<a href="./python/misc/double_letters.py">python/misc/double\_letters.py</a>|Double Letters.|
+|<a href="./python/misc/check_string_for_spaces.py">python/misc/check\_string\_for\_spaces.py</a>|Check String for Spaces.|
 |<a href="./python/misc/to_the_power_of.py">python/misc/to\_the\_power\_of.py</a>|To the Power of.|
 |<a href="./python/misc/progress_days.py">python/misc/progress\_days.py</a>|Progress.|
 |<a href="./python/misc/seconds_in_hours.py">python/misc/seconds\_in\_hours.py</a>|Seconds in Hours.|
