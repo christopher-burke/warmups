@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 173 python files in this repo.
+There's now 174 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -12,6 +12,7 @@ There's now 173 python files in this repo.
 |<a href="./today_birthday.py">today\_birthday.py</a>|Today Birthday.|
 |<a href="./valid_zip_code.py">valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./repeat_letters_n_times.py">repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
+|<a href="./array_of_word_lengths.py">array\_of\_word\_lengths.py</a>|Array of Word Lengths.|
 |<a href="./get_the_sum_of_all_list_elements.py">get\_the\_sum\_of\_all\_list\_elements.py</a>|Get the Sum of All List Elements.|
 |<a href="./count_letters_in_a_word_search.py">count\_letters\_in\_a\_word\_search.py</a>|Count Letters in a Word Search.|
 |<a href="./middle_element.py">middle\_element.py</a>|Finding middle element in a linked list.|
