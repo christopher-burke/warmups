@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 174 python files in this repo.
+There's now 175 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -147,6 +147,7 @@ There's now 174 python files in this repo.
 |<a href="./min_max_length_average.py">min\_max\_length\_average.py</a>|Find the Minimum, Maximum, Length and Average Values.|
 |<a href="./seven_boom.py">seven\_boom.py</a>|Seven Boom!|
 |<a href="./reverse_words_in_a_given_string.py">reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
+|<a href="./sum_of_the_odd_numbers.py">sum\_of\_the\_odd\_numbers.py</a>|Sum of the Odd Numbers.|
 |<a href="./less_than_equal_to_zero.py">less\_than\_equal\_to\_zero.py</a>|Less than or equal to zero.|
 |<a href="./zig_zag.py">zig\_zag.py</a>|Zig Zag.|
 |<a href="./string_flips.py">string\_flips.py</a>|String Flips.|
