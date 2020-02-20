@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 221 python files in this repo.
+There's now 222 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -123,6 +123,7 @@ There's now 221 python files in this repo.
 |<a href="./python/misc/grocery_store_prices.py">python/misc/grocery\_store\_prices.py</a>|Grocery Store Prices.|
 |<a href="./python/misc/split_item_codes.py">python/misc/split\_item\_codes.py</a>|Split Item Codes.|
 |<a href="./python/misc/solving_exponential_equations_with_logarithms.py">python/misc/solving\_exponential\_equations\_with\_logarithms.py</a>|Solving Exponential Equations With Logarithms.|
+|<a href="./python/misc/hashes_and_pluses.py">python/misc/hashes\_and\_pluses.py</a>|Hashes and Pluses.|
 |<a href="./python/misc/whos_the_oldest.py">python/misc/whos\_the\_oldest.py</a>|Find the oldest. Who's The Oldest?|
 |<a href="./python/misc/hacker_speak.py">python/misc/hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
 |<a href="./python/misc/is_prime.py">python/misc/is\_prime.py</a>|Is the number Prime.|
