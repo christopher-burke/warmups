@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 222 python files in this repo.
+There's now 223 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -107,6 +107,7 @@ There's now 222 python files in this repo.
 |<a href="./python/misc/positive_count_negative_sum.py">python/misc/positive\_count\_negative\_sum.py</a>|Positive Count / Negative Sum.|
 |<a href="./python/misc/max_of_three.py">python/misc/max\_of\_three.py</a>|Max Of Three.|
 |<a href="./python/misc/hours_minutes_to_seconds.py">python/misc/hours\_minutes\_to\_seconds.py</a>|Hours and Minutes to Seconds.|
+|<a href="./python/misc/convert_filename.py">python/misc/convert\_filename.py</a>|Convert file names.|
 |<a href="./python/misc/remove_smallest.py">python/misc/remove\_smallest.py</a>|The Museum of Incredibly Dull Things.|
 |<a href="./python/misc/return_first_element_in_a_list.py">python/misc/return\_first\_element\_in\_a\_list.py</a>|Return the First Element in a List.|
 |<a href="./python/misc/two_distinct_elements.py">python/misc/two\_distinct\_elements.py</a>|Two Distinct Elements.|
