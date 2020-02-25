@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 223 python files in this repo.
+There's now 224 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -175,6 +175,7 @@ There's now 223 python files in this repo.
 |<a href="./python/misc/maximum_sum_increasing_subsequence.py">python/misc/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/leaders_in_an_array.py">python/misc/leaders\_in\_an\_array.py</a>|Leaders in an array.|
 |<a href="./python/misc/convert_to_hex.py">python/misc/convert\_to\_hex.py</a>|Convert to Hex.|
+|<a href="./python/misc/frames_per_second.py">python/misc/frames\_per\_second.py</a>|Frames per second.|
 |<a href="./python/misc/words_with_duplicate_letters.py">python/misc/words\_with\_duplicate\_letters.py</a>|Words With Duplicate Letters.|
 |<a href="./python/misc/remove_duplicates.py">python/misc/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/majority_vote.py">python/misc/majority\_vote.py</a>|Majority Vote.|
