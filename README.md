@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 224 python files in this repo.
+There's now 225 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -142,6 +142,7 @@ There's now 224 python files in this repo.
 |<a href="./python/misc/calculate_profit.py">python/misc/calculate\_profit.py</a>|Calculate the Profit.|
 |<a href="./python/misc/first_repeated_char.py">python/misc/first\_repeated\_char.py</a>|Print the first repeated character in a string.|
 |<a href="./python/misc/apocalyptic_numbers.py">python/misc/apocalyptic\_numbers.py</a>|Apocalyptic Numbers.|
+|<a href="./python/misc/the_three_programmers_problem.py">python/misc/the\_three\_programmers\_problem.py</a>|The Three Programmers Problem.|
 |<a href="./python/misc/complete_the_word.py">python/misc/complete\_the\_word.py</a>|Complete the Word.|
 |<a href="./python/misc/decode_message.py">python/misc/decode\_message.py</a>|Number of Ways to Decode an encoded string.|
 |<a href="./python/misc/fiscal_year.py">python/misc/fiscal\_year.py</a>|Fiscal Year.|
