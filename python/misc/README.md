@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 180 python files in this repo.
+There's now 181 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -87,6 +87,7 @@ There's now 180 python files in this repo.
 |<a href="./additive_inverse.py">additive\_inverse.py</a>|Additive Inverse.|
 |<a href="./permutations.py">permutations.py</a>|Permutations of a given string.|
 |<a href="./maskify.py">maskify.py</a>|Maskify the String.|
+|<a href="./volume_of_a_pizza.py">volume\_of\_a\_pizza.py</a>|Volume of a Pizza.|
 |<a href="./equilibrium_point.py">equilibrium\_point.py</a>|Equilibrium point|
 |<a href="./missing_num_in_array.py">missing\_num\_in\_array.py</a>|Missing number in array|
 |<a href="./magic_date.py">magic\_date.py</a>|You are to read each part of the date into its own integer type variable.|
