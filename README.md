@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 227 python files in this repo.
+There's now 228 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -66,6 +66,7 @@ There's now 227 python files in this repo.
 |<a href="./python/misc/return_first_and_last_parameter.py">python/misc/return\_first\_and\_last\_parameter.py</a>|Return First and Last Parameter.|
 |<a href="./python/misc/is_leap_year.py">python/misc/is\_leap\_year.py</a>|Determine Leap Year.|
 |<a href="./python/misc/subarray_with_given_sum.py">python/misc/subarray\_with\_given\_sum.py</a>|Subarray with given sum.|
+|<a href="./python/misc/how_much_is_true.py">python/misc/how\_much\_is\_true.py</a>|How much is True.|
 |<a href="./python/misc/pandigital_numbers.py">python/misc/pandigital\_numbers.py</a>|Pandigital Numbers.|
 |<a href="./python/misc/phone_number_formatting.py">python/misc/phone\_number\_formatting.py</a>|Phone Number Formatting.|
 |<a href="./python/misc/remainder_two_numbers.py">python/misc/remainder\_two\_numbers.py</a>|Return the Remainder from Two Numbers.|
