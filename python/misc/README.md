@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 182 python files in this repo.
+There's now 183 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -175,6 +175,7 @@ There's now 182 python files in this repo.
 |<a href="./change_to_next_letter.py">change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
 |<a href="./single_swap.py">single\_swap.py</a>|Single Letter Swaps.|
 |<a href="./pentagonal_number.py">pentagonal\_number.py</a>|Pentagonal Number|
+|<a href="./check_if_a_list_contains_a_given_number.py">check\_if\_a\_list\_contains\_a\_given\_number.py</a>|Check if a List Contains a Given Number.|
 |<a href="./day_of_week.py">day\_of\_week.py</a>|Day of the week.|
 |<a href="./maximum_sum_increasing_subsequence.py">maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./leaders_in_an_array.py">leaders\_in\_an\_array.py</a>|Leaders in an array.|

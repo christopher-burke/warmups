@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 228 python files in this repo.
+There's now 229 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -175,6 +175,7 @@ There's now 228 python files in this repo.
 |<a href="./python/misc/change_to_next_letter.py">python/misc/change\_to\_next\_letter.py</a>|Change Every Letter to the Next Letter.|
 |<a href="./python/misc/single_swap.py">python/misc/single\_swap.py</a>|Single Letter Swaps.|
 |<a href="./python/misc/pentagonal_number.py">python/misc/pentagonal\_number.py</a>|Pentagonal Number|
+|<a href="./python/misc/check_if_a_list_contains_a_given_number.py">python/misc/check\_if\_a\_list\_contains\_a\_given\_number.py</a>|Check if a List Contains a Given Number.|
 |<a href="./python/misc/day_of_week.py">python/misc/day\_of\_week.py</a>|Day of the week.|
 |<a href="./python/misc/maximum_sum_increasing_subsequence.py">python/misc/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/leaders_in_an_array.py">python/misc/leaders\_in\_an\_array.py</a>|Leaders in an array.|
