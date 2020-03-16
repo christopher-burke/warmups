@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 183 python files in this repo.
+There's now 184 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -86,6 +86,7 @@ There's now 183 python files in this repo.
 |<a href="./retrieve_subreddit.py">retrieve\_subreddit.py</a>|Retrieve the Subreddit.|
 |<a href="./are_the_numbers_equal.py">are\_the\_numbers\_equal.py</a>|Are the Numbers Equal? - warmup.|
 |<a href="./additive_inverse.py">additive\_inverse.py</a>|Additive Inverse.|
+|<a href="./is_even_or_odd.py">is\_even\_or\_odd.py</a>|Is the Number Even or Odd.|
 |<a href="./permutations.py">permutations.py</a>|Permutations of a given string.|
 |<a href="./maskify.py">maskify.py</a>|Maskify the String.|
 |<a href="./volume_of_a_pizza.py">volume\_of\_a\_pizza.py</a>|Volume of a Pizza.|
