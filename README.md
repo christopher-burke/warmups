@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 230 python files in this repo.
+There's now 231 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -156,6 +156,7 @@ There's now 230 python files in this repo.
 |<a href="./python/misc/reverse_words_in_a_given_string.py">python/misc/reverse\_words\_in\_a\_given\_string.py</a>|Reverse words in a given string.|
 |<a href="./python/misc/sum_of_the_odd_numbers.py">python/misc/sum\_of\_the\_odd\_numbers.py</a>|Sum of the Odd Numbers.|
 |<a href="./python/misc/less_than_equal_to_zero.py">python/misc/less\_than\_equal\_to\_zero.py</a>|Less than or equal to zero.|
+|<a href="./python/misc/add_x_chars_to_start_end_of_string.py">python/misc/add\_x\_chars\_to\_start\_end\_of\_string.py</a>|Add x Characters to the Start and End of a String.|
 |<a href="./python/misc/zig_zag.py">python/misc/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/misc/string_flips.py">python/misc/string\_flips.py</a>|String Flips.|
 |<a href="./python/misc/find_sum.py">python/misc/find\_sum.py</a>|Example find sum from a collection.|
