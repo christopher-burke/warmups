@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 232 python files in this repo.
+There's now 233 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -166,6 +166,7 @@ There's now 232 python files in this repo.
 |<a href="./python/misc/combinations.py">python/misc/combinations.py</a>|Combinations.|
 |<a href="./python/misc/find_odd.py">python/misc/find\_odd.py</a>|Find the Odd Integer.|
 |<a href="./python/misc/accumulating_product.py">python/misc/accumulating\_product.py</a>|Accumulating Product.|
+|<a href="./python/misc/does_the_dictionary_contain_a_given_key.py">python/misc/does\_the\_dictionary\_contain\_a\_given\_key.py</a>|Does the Dictionary Contain a Given Key.|
 |<a href="./python/misc/maximum_edge_of_a_triangle.py">python/misc/maximum\_edge\_of\_a\_triangle.py</a>|Maximum Edge of a Triangle.|
 |<a href="./python/misc/match_last_item.py">python/misc/match\_last\_item.py</a>|Match the Last Item.|
 |<a href="./python/misc/baseball.py">python/misc/baseball.py</a>|Baseball stat formulas.|
