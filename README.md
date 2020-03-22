@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 231 python files in this repo.
+There's now 232 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -191,6 +191,7 @@ There's now 231 python files in this repo.
 |<a href="./python/misc/capitalization_families.py">python/misc/capitalization\_families.py</a>|Capitalization Families.|
 |<a href="./python/misc/atm_pin_code_validation.py">python/misc/atm\_pin\_code\_validation.py</a>|ATM PIN Code Validation.|
 |<a href="./python/misc/random_number_generation_exercises.py">python/misc/random\_number\_generation\_exercises.py</a>|Python Random Number Generation Exercises.|
+|<a href="./python/misc/sandwich_fillings.py">python/misc/sandwich\_fillings.py</a>|Sandwich Fillings|
 |<a href="./python/projecteuler/src/largest_product_in_a_series.py">python/projecteuler/src/largest\_product\_in\_a\_series.py</a>|Largest Product in a series.|
 |<a href="./python/projecteuler/src/ten_k_one_prime.py">python/projecteuler/src/ten\_k\_one\_prime.py</a>|10001th prime.|
 |<a href="./python/projecteuler/src/number_letter_counts.py">python/projecteuler/src/number\_letter\_counts.py</a>|Number letter counts.|
