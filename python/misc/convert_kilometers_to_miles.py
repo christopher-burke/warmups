@@ -23,7 +23,7 @@ def main():
     assert km_to_miles(2) == Decimal('1.24274')
     assert km_to_miles(6) == Decimal('3.72823')
     assert km_to_miles(8) == Decimal('4.97097')
-    print('Passed'.)
+    print('Passed.')
 
 if __name__ == "__main__":
     main()
