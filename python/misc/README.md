@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 189 python files in this repo.
+There's now 190 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -133,6 +133,7 @@ There's now 189 python files in this repo.
 |<a href="./hashes_and_pluses.py">hashes\_and\_pluses.py</a>|Hashes and Pluses.|
 |<a href="./whos_the_oldest.py">whos\_the\_oldest.py</a>|Find the oldest. Who's The Oldest?|
 |<a href="./hacker_speak.py">hacker\_speak.py</a>|Hacker Speak - H4ck3r Sp34k.|
+|<a href="./stack_the_boxes.py">stack\_the\_boxes.py</a>|Stack the Boxes.|
 |<a href="./is_prime.py">is\_prime.py</a>|Is the number Prime.|
 |<a href="./days_in_month.py">days\_in\_month.py</a>|Days in a Month.|
 |<a href="./russian_roulette.py">russian\_roulette.py</a>|Russian roulette.|
