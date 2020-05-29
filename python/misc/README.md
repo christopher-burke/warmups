@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 192 python files in this repo.
+There's now 193 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -101,6 +101,7 @@ There's now 192 python files in this repo.
 |<a href="./fewest_bills_coins.py">fewest\_bills\_coins.py</a>|Fewest bills and coins.|
 |<a href="./find_duplicate_in_array.py">find\_duplicate\_in\_array.py</a>|Find duplicate in array.|
 |<a href="./max_of_all_subarrays_of_size_k.py">max\_of\_all\_subarrays\_of\_size\_k.py</a>|Maximum of all subarrays of size k.|
+|<a href="./return_a_string_as_an_integer.py">return\_a\_string\_as\_an\_integer.py</a>|Return a String as an Integer.|
 |<a href="./minimum_platforms.py">minimum\_platforms.py</a>|Minimum Platforms.|
 |<a href="./karacas_encryption_algorithm.py">karacas\_encryption\_algorithm.py</a>|The Karaca's Encryption Algorithm.|
 |<a href="./multiply_by_length.py">multiply\_by\_length.py</a>|Multiply by Length.|
