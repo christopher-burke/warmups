@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 240 python files in this repo.
+There's now 241 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -77,6 +77,7 @@ There's now 240 python files in this repo.
 |<a href="./python/misc/is_symmetrical.py">python/misc/is\_symmetrical.py</a>|Number Symmetrical.|
 |<a href="./python/misc/count_args.py">python/misc/count\_args.py</a>|Count the Arguments.|
 |<a href="./python/misc/divides_evenly.py">python/misc/divides\_evenly.py</a>|Divides Evenly.|
+|<a href="./python/misc/drinks_allowed.py">python/misc/drinks\_allowed.py</a>|Drinks Allowed.|
 |<a href="./python/misc/find_the_perimeter_of_a_rectangle.py">python/misc/find\_the\_perimeter\_of\_a\_rectangle.py</a>|Find the Perimeter of a Rectangle.|
 |<a href="./python/misc/missing_third_angle.py">python/misc/missing\_third\_angle.py</a>|Missing Third Angle.|
 |<a href="./python/misc/area_triangle_heron.py">python/misc/area\_triangle\_heron.py</a>|Area of triangle - Heron's Formula.|
