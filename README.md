@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 241 python files in this repo.
+There's now 242 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -53,6 +53,7 @@ There's now 241 python files in this repo.
 |<a href="./python/misc/less_than_100.py">python/misc/less\_than\_100.py</a>|Less Than 100.|
 |<a href="./python/misc/reverse_array_in_groups.py">python/misc/reverse\_array\_in\_groups.py</a>|Reverse Array In Groups.|
 |<a href="./python/misc/check_if_lines_are_parallel.py">python/misc/check\_if\_lines\_are\_parallel.py</a>|Check If Lines Are Parallel.|
+|<a href="./python/misc/modifying_the_last_character.py">python/misc/modifying\_the\_last\_character.py</a>|Modifying the Last Character.|
 |<a href="./python/misc/area_triangle.py">python/misc/area\_triangle.py</a>|Area of a Triangle.|
 |<a href="./python/misc/football_points.py">python/misc/football\_points.py</a>|Football Points.|
 |<a href="./python/misc/minutes_to_seconds.py">python/misc/minutes\_to\_seconds.py</a>|Minutes to Seconds.|
