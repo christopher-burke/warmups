@@ -5,20 +5,20 @@
 Usernames consist of first initial and last name. If there
 more than 1 record exists for a given username a number is appended
 to the end of the name. Write a function that splits the username (alpha chars)
-from its digits (numberic).
+from its digits (numeric).
 """
 
 from typing import Tuple
 import re
 
 
-def split_username(username: str) ->Tuple[str, str]:
-    r"""Split the alpha characters from the numberic characters.
+def split_username(username: str) -> Tuple[str, str]:
+    r"""Split the alpha characters from the numeric characters.
 
     Usernames follow the following pattern:  \w+\d*
 
     Return a tuple containing the username alpha characters and
-    numberic characters respectively.
+    numeric characters respectively.
     """
     split = re.compile(r"\d+")
     match = split.search(username)
