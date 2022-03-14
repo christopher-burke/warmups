@@ -2,7 +2,7 @@
 
 These are python scripts I have created, modified or used. Some scripts are for fun, while others have valuable use in production.
 
-There's now 242 python files in this repo.
+There's now 248 python files in this repo.
 
 | Script  | DocString |
 | ------------- | ------------- |
@@ -12,6 +12,7 @@ There's now 242 python files in this repo.
 |<a href="./python/misc/is_the_dictionary_empty.py">python/misc/is\_the\_dictionary\_empty.py</a>|Is the Dictionary Empty.|
 |<a href="./python/misc/convert_kilometers_to_miles.py">python/misc/convert\_kilometers\_to\_miles.py</a>|Convert Kilometers to Miles.|
 |<a href="./python/misc/today_birthday.py">python/misc/today\_birthday.py</a>|Today Birthday.|
+|<a href="./python/misc/array_three_sum.py">python/misc/array\_three\_sum.py</a>|Determine if the sum of three integers is equal to the given value.|
 |<a href="./python/misc/valid_zip_code.py">python/misc/valid\_zip\_code.py</a>|Valid Zip Code.|
 |<a href="./python/misc/repeat_letters_n_times.py">python/misc/repeat\_letters\_n\_times.py</a>|Repeating Letters N Times.|
 |<a href="./python/misc/array_of_word_lengths.py">python/misc/array\_of\_word\_lengths.py</a>|Array of Word Lengths.|
@@ -126,9 +127,11 @@ There's now 242 python files in this repo.
 |<a href="./python/misc/equality_of_three_values.py">python/misc/equality\_of\_three\_values.py</a>|Equality of 3 Values.|
 |<a href="./python/misc/partially_hidden_string.py">python/misc/partially\_hidden\_string.py</a>|Partially Hidden String.|
 |<a href="./python/misc/remove_every_vowel_from_a_string.py">python/misc/remove\_every\_vowel\_from\_a\_string.py</a>|Remove Every Vowel from a String.|
+|<a href="./python/misc/stuttering_function.py">python/misc/stuttering\_function.py</a>|Stuttering Function.|
 |<a href="./python/misc/numbers_in_strings.py">python/misc/numbers\_in\_strings.py</a>|Numbers in Strings.|
 |<a href="./python/misc/odd_up_even_down_n_times.py">python/misc/odd\_up\_even\_down\_n\_times.py</a>|Odd Up, Even Down - N Times.|
 |<a href="./python/misc/blackjack.py">python/misc/blackjack.py</a>|Blackjack.|
+|<a href="./python/misc/convert_age_to_days.py">python/misc/convert\_age\_to\_days.py</a>|Convert Age to Days.|
 |<a href="./python/misc/making_a_box.py">python/misc/making\_a\_box.py</a>|Making a Box.|
 |<a href="./python/misc/intro_to_map_reduce_pattern.py">python/misc/intro\_to\_map\_reduce\_pattern.py</a>|An Introduction to the Map-Reduce Pattern|
 |<a href="./python/misc/current_military_time.py">python/misc/current\_military\_time.py</a>|Current Military Time.|
@@ -165,6 +168,7 @@ There's now 242 python files in this repo.
 |<a href="./python/misc/sum_of_the_odd_numbers.py">python/misc/sum\_of\_the\_odd\_numbers.py</a>|Sum of the Odd Numbers.|
 |<a href="./python/misc/less_than_equal_to_zero.py">python/misc/less\_than\_equal\_to\_zero.py</a>|Less than or equal to zero.|
 |<a href="./python/misc/add_x_chars_to_start_end_of_string.py">python/misc/add\_x\_chars\_to\_start\_end\_of\_string.py</a>|Add x Characters to the Start and End of a String.|
+|<a href="./python/misc/linked_list_two_int.py">python/misc/linked\_list\_two\_int.py</a>|Linked Lists - Add Two Integers.|
 |<a href="./python/misc/zig_zag.py">python/misc/zig\_zag.py</a>|Zig Zag.|
 |<a href="./python/misc/string_flips.py">python/misc/string\_flips.py</a>|String Flips.|
 |<a href="./python/misc/find_sum.py">python/misc/find\_sum.py</a>|Example find sum from a collection.|
@@ -192,10 +196,12 @@ There's now 242 python files in this repo.
 |<a href="./python/misc/maximum_sum_increasing_subsequence.py">python/misc/maximum\_sum\_increasing\_subsequence.py</a>|Maximum sum increasing subsequence.|
 |<a href="./python/misc/leaders_in_an_array.py">python/misc/leaders\_in\_an\_array.py</a>|Leaders in an array.|
 |<a href="./python/misc/convert_to_hex.py">python/misc/convert\_to\_hex.py</a>|Convert to Hex.|
+|<a href="./python/misc/two_dimensional_array.py">python/misc/two\_dimensional\_array.py</a>|Set columns and rows as zeros.|
 |<a href="./python/misc/frames_per_second.py">python/misc/frames\_per\_second.py</a>|Frames per second.|
 |<a href="./python/misc/words_with_duplicate_letters.py">python/misc/words\_with\_duplicate\_letters.py</a>|Words With Duplicate Letters.|
 |<a href="./python/misc/remove_duplicates.py">python/misc/remove\_duplicates.py</a>|Remove Duplicates.|
 |<a href="./python/misc/majority_vote.py">python/misc/majority\_vote.py</a>|Majority Vote.|
+|<a href="./python/misc/linked_list_intersection.py">python/misc/linked\_list\_intersection.py</a>|Intersection Point of Two Linked Lists.|
 |<a href="./python/misc/remove_duplicates_from_list.py">python/misc/remove\_duplicates\_from\_list.py</a>|Remove Duplicates from a List.|
 |<a href="./python/misc/is_isogram.py">python/misc/is\_isogram.py</a>|Isogram.|
 |<a href="./python/misc/capitalization_families.py">python/misc/capitalization\_families.py</a>|Capitalization Families.|
